@@ -1,0 +1,1090 @@
+2020-08-21 14:08:490 INFO  LoggerHelper :24 - hiiiiiiii
+2020-08-21 14:08:492 INFO  LoggerHelper :25 - hiiiiiiii
+2020-08-21 14:08:777 INFO  LoggerHelper :24 - hiiiiiiii
+2020-08-21 14:08:778 INFO  LoggerHelper :25 - hiiiiiiii
+2020-08-21 14:08:866 INFO  LoggerHelper :26 - hiiiiiiii
+2020-08-21 14:08:867 INFO  LoggerHelper :27 - hiiiiiiii
+2020-08-24 17:08:856 INFO  Retry :18 - Retry test;awith status FailureFor the 1times
+2020-08-24 17:08:864 INFO  Retry :18 - Retry test;awith status FailureFor the 2times
+2020-08-24 17:08:868 INFO  Retry :18 - Retry test;awith status FailureFor the 3times
+2020-08-24 17:08:911 INFO  Retry :18 - Retry test;awith status FailureFor the 1times
+2020-08-24 17:08:917 INFO  Retry :18 - Retry test;awith status FailureFor the 2times
+2020-08-24 17:08:920 INFO  Retry :18 - Retry test;awith status FailureFor the 3times
+2020-08-24 17:08:840 INFO  Retry :18 - Retry test:a:  with status FailureFor the 1times
+2020-08-24 17:08:847 INFO  Retry :18 - Retry test:a:  with status FailureFor the 2times
+2020-08-24 17:08:851 INFO  Retry :18 - Retry test:a:  with status FailureFor the 3times
+2020-08-24 17:08:886 INFO  Retry :18 - Retry test:a:  with status FailureFor the 1times
+2020-08-24 17:08:889 INFO  Retry :18 - Retry test:a:  with status FailureFor the 2times
+2020-08-24 17:08:892 INFO  Retry :18 - Retry test:a:  with status FailureFor the 3times
+2020-08-25 10:08:373 INFO  Retry :18 - Retry test:Demo:  with status FailureFor the 1times
+2020-08-25 10:08:383 INFO  Retry :18 - Retry test:Demo:  with status FailureFor the 2times
+2020-08-25 10:08:383 INFO  Retry :18 - Retry test:Demo:  with status FailureFor the 3times
+2020-08-25 10:08:401 INFO  Retry :18 - Retry test:DemoC:  with status FailureFor the 1times
+2020-08-25 10:08:401 INFO  Retry :18 - Retry test:DemoC:  with status FailureFor the 2times
+2020-08-25 10:08:401 INFO  Retry :18 - Retry test:DemoC:  with status FailureFor the 3times
+2020-08-25 10:08:696 INFO  Retry :18 - Retry test:DemoB:  with status FailureFor the 1times
+2020-08-25 10:08:705 INFO  Retry :18 - Retry test:DemoB:  with status FailureFor the 2times
+2020-08-25 10:08:721 INFO  Retry :18 - Retry test:DemoC:  with status FailureFor the 1times
+2020-08-25 10:08:726 INFO  Retry :18 - Retry test:DemoC:  with status FailureFor the 2times
+2020-08-26 19:08:312 INFO  ExcelHelper :117 - Result is updated
+2020-08-27 12:08:367 INFO  AsserssionHelper :19 - making script Pass
+2020-08-27 12:08:699 INFO  AsserssionHelper :29 - making script Fail
+2020-08-27 12:08:764 INFO  AsserssionHelper :29 - making script Fail
+2020-08-27 12:08:808 INFO  AsserssionHelper :19 - making script Pass
+2020-08-27 12:08:672 INFO  AsserssionHelper :19 - making script Pass
+2020-08-27 12:08:935 INFO  AsserssionHelper :29 - making script Fail
+2020-08-27 12:08:08 INFO  AsserssionHelper :29 - making script Fail
+2020-08-27 12:08:58 INFO  AsserssionHelper :19 - making script Pass
+2020-08-27 12:08:115 INFO  AsserssionHelper :19 - making script Pass
+2020-08-27 12:08:156 INFO  AsserssionHelper :29 - making script Fail
+2020-08-27 12:08:198 INFO  AsserssionHelper :29 - making script Fail
+2020-08-27 12:08:236 INFO  AsserssionHelper :19 - making script Pass
+2020-08-28 11:08:503 INFO  Testbase :113 - The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+2020-08-28 11:08:421 INFO  Testbase :122 - Initilizing WebDriver1330400026
+2020-08-28 11:08:453 INFO  Testbase :122 - Initilizing WebDriver1330400026
+2020-08-28 11:08:502 INFO  Testbase :122 - Initilizing WebDriver1330400026
+2020-08-28 11:08:955 INFO  Testbase :122 - Initilizing WebDriver1330400026
+2020-08-28 11:08:137 INFO  Testbase :122 - Initilizing WebDriver1330400026
+2020-08-28 11:08:139 INFO  WaitHelper :37 - Implicit wait is set to :120
+2020-08-28 11:08:145 INFO  WaitHelper :128 -  waiting for page to load for   SECONDS:Seconds
+2020-08-28 11:08:148 INFO  WaitHelper :131 - Page is Loaded
+2020-08-28 11:08:104 INFO  Testbase :122 - Initilizing WebDriver1330400026
+2020-08-28 11:08:107 INFO  WaitHelper :37 - Implicit wait is set to :120
+2020-08-28 11:08:115 INFO  WaitHelper :128 -  waiting for page to load for   SECONDS:Seconds
+2020-08-28 11:08:120 INFO  WaitHelper :131 - Page is Loaded
+2020-08-28 11:08:930 INFO  Testbase :122 - Initilizing WebDriver1330400026
+2020-08-28 11:08:933 INFO  WaitHelper :37 - Implicit wait is set to :120
+2020-08-28 11:08:940 INFO  WaitHelper :128 -  waiting for page to load for   SECONDS:Seconds
+2020-08-28 11:08:944 INFO  WaitHelper :131 - Page is Loaded
+2020-08-28 11:08:694 INFO  Testbase :122 - Initilizing WebDriver1330400026
+2020-08-28 11:08:697 INFO  WaitHelper :37 - Implicit wait is set to :120
+2020-08-28 11:08:704 INFO  WaitHelper :128 -  waiting for page to load for   SECONDS:Seconds
+2020-08-28 11:08:710 INFO  WaitHelper :131 - Page is Loaded
+2020-08-28 11:08:713 INFO  Testbase :122 - Initilizing WebDriver1330400026
+2020-08-28 11:08:718 INFO  WaitHelper :37 - Implicit wait is set to :120
+2020-08-28 11:08:725 INFO  WaitHelper :128 -  waiting for page to load for   SECONDS:Seconds
+2020-08-28 11:08:728 INFO  WaitHelper :131 - Page is Loaded
+2020-08-28 12:08:126 INFO  Retry :18 - Retry test:DemoB:  with status FailureFor the 1times
+2020-08-28 12:08:182 INFO  Retry :18 - Retry test:DemoB:  with status FailureFor the 2times
+2020-08-28 12:08:199 INFO  Retry :18 - Retry test:DemoC:  with status FailureFor the 1times
+2020-08-28 12:08:202 INFO  Retry :18 - Retry test:DemoC:  with status FailureFor the 2times
+2020-08-28 14:08:83 INFO  Retry :18 - Retry test:DemoB:  with status FailureFor the 1times
+2020-08-28 14:08:126 INFO  Retry :18 - Retry test:DemoB:  with status FailureFor the 2times
+2020-08-28 14:08:181 INFO  Retry :18 - Retry test:DemoC:  with status FailureFor the 1times
+2020-08-28 14:08:186 INFO  Retry :18 - Retry test:DemoC:  with status FailureFor the 2times
+2020-08-28 14:08:282 INFO  Retry :18 - Retry test:DemoB:  with status FailureFor the 1times
+2020-08-28 14:08:296 INFO  Retry :18 - Retry test:DemoB:  with status FailureFor the 2times
+2020-08-28 14:08:371 INFO  Retry :18 - Retry test:DemoC:  with status FailureFor the 1times
+2020-08-28 14:08:374 INFO  Retry :18 - Retry test:DemoC:  with status FailureFor the 2times
+2020-08-28 16:08:712 INFO  Retry :18 - Retry test:DemoB:  with status FailureFor the 1times
+2020-08-28 16:08:764 INFO  Retry :18 - Retry test:DemoB:  with status FailureFor the 2times
+2020-08-28 16:08:840 INFO  Retry :18 - Retry test:DemoC:  with status FailureFor the 1times
+2020-08-28 16:08:844 INFO  Retry :18 - Retry test:DemoC:  with status FailureFor the 2times
+2020-08-28 16:08:599 INFO  Retry :18 - Retry test:DemoB:  with status FailureFor the 1times
+2020-08-28 16:08:615 INFO  Retry :18 - Retry test:DemoB:  with status FailureFor the 2times
+2020-08-28 16:08:696 INFO  Retry :18 - Retry test:DemoC:  with status FailureFor the 1times
+2020-08-28 16:08:699 INFO  Retry :18 - Retry test:DemoC:  with status FailureFor the 2times
+2020-08-28 16:08:569 INFO  Retry :18 - Retry test:DemoB:  with status FailureFor the 1times
+2020-08-28 16:08:606 INFO  Retry :18 - Retry test:DemoB:  with status FailureFor the 2times
+2020-08-28 16:08:689 INFO  Retry :18 - Retry test:DemoC:  with status FailureFor the 1times
+2020-08-28 16:08:691 INFO  Retry :18 - Retry test:DemoC:  with status FailureFor the 2times
+2020-08-28 16:08:653 INFO  Retry :18 - Retry test:DemoB:  with status FailureFor the 1times
+2020-08-28 16:08:673 INFO  Retry :18 - Retry test:DemoB:  with status FailureFor the 2times
+2020-08-28 16:08:769 INFO  Retry :18 - Retry test:DemoC:  with status FailureFor the 1times
+2020-08-28 16:08:773 INFO  Retry :18 - Retry test:DemoC:  with status FailureFor the 2times
+2020-08-28 17:08:477 INFO  Retry :18 - Retry test:DemoB:  with status FailureFor the 1times
+2020-08-28 17:08:487 INFO  Retry :18 - Retry test:DemoB:  with status FailureFor the 2times
+2020-08-28 17:08:554 INFO  Retry :18 - Retry test:DemoC:  with status FailureFor the 1times
+2020-08-28 17:08:557 INFO  Retry :18 - Retry test:DemoC:  with status FailureFor the 2times
+2020-08-28 17:08:334 INFO  Retry :18 - Retry test:DemoB:  with status FailureFor the 1times
+2020-08-28 17:08:344 INFO  Retry :18 - Retry test:DemoB:  with status FailureFor the 2times
+2020-08-28 17:08:420 INFO  Retry :18 - Retry test:DemoC:  with status FailureFor the 1times
+2020-08-28 17:08:423 INFO  Retry :18 - Retry test:DemoC:  with status FailureFor the 2times
+2020-08-28 17:08:34 INFO  Retry :18 - Retry test:DemoB:  with status FailureFor the 1times
+2020-08-28 17:08:44 INFO  Retry :18 - Retry test:DemoB:  with status FailureFor the 2times
+2020-08-28 17:08:117 INFO  Retry :18 - Retry test:DemoC:  with status FailureFor the 1times
+2020-08-28 17:08:120 INFO  Retry :18 - Retry test:DemoC:  with status FailureFor the 2times
+2020-08-28 17:08:972 INFO  Retry :18 - Retry test:DemoB:  with status FailureFor the 1times
+2020-08-28 17:08:984 INFO  Retry :18 - Retry test:DemoB:  with status FailureFor the 2times
+2020-08-28 17:08:51 INFO  Retry :18 - Retry test:DemoC:  with status FailureFor the 1times
+2020-08-28 17:08:54 INFO  Retry :18 - Retry test:DemoC:  with status FailureFor the 2times
+2020-08-28 17:08:793 INFO  Retry :18 - Retry test:DemoB:  with status Failure  For the 1 times
+2020-08-28 17:08:806 INFO  Retry :18 - Retry test:DemoB:  with status Failure  For the 2 times
+2020-08-28 17:08:875 INFO  Retry :18 - Retry test:DemoC:  with status Failure  For the 1 times
+2020-08-28 17:08:877 INFO  Retry :18 - Retry test:DemoC:  with status Failure  For the 2 times
+2020-08-28 17:08:06 INFO  Retry :18 - Retrying  test:DemoB:  with status--> Failure  For the 1 times
+2020-08-28 17:08:15 INFO  Retry :18 - Retrying  test:DemoB:  with status--> Failure  For the 2 times
+2020-08-28 17:08:87 INFO  Retry :18 - Retrying  test:DemoC:  with status--> Failure  For the 1 times
+2020-08-28 17:08:89 INFO  Retry :18 - Retrying  test:DemoC:  with status--> Failure  For the 2 times
+2020-08-28 17:08:863 INFO  Testbase :131 - Initilizing WebDriver1860591867
+2020-08-28 17:08:874 INFO  WaitHelper :37 - Implicit wait is set to :120
+2020-08-28 17:08:896 INFO  WaitHelper :128 -  waiting for page to load for   SECONDS:Seconds
+2020-08-28 17:08:900 INFO  WaitHelper :131 - Page is Loaded
+2020-08-28 18:08:362 INFO  ExtentListener :37 - ATest is started
+2020-08-28 18:08:107 INFO  ExtentListener :37 - ATest is started
+2020-08-28 18:08:152 INFO  ExtentListener :26 - ATest is passed
+2020-08-28 18:08:154 INFO  ExtentListener :37 - BTest is started
+2020-08-28 18:08:156 INFO  Retry :18 - Retrying  test:DemoB:  with status--> Failure  For the 1 times
+2020-08-28 18:08:160 INFO  Retry :18 - Retrying  test:DemoB:  with status--> Failure  For the 2 times
+2020-08-28 18:08:173 INFO  ExtentListener :26 - BTest is passed
+2020-08-28 18:08:177 INFO  ExtentListener :37 - CTest is started
+2020-08-28 18:08:180 INFO  Retry :18 - Retrying  test:DemoC:  with status--> Failure  For the 1 times
+2020-08-28 18:08:186 INFO  Retry :18 - Retrying  test:DemoC:  with status--> Failure  For the 2 times
+2020-08-28 18:08:198 INFO  ExtentListener :26 - CTest is passed
+2020-08-28 18:08:200 INFO  ExtentListener :37 - TestScreenShotTest is started
+2020-08-28 18:08:79 INFO  Testbase :131 - Initilizing WebDriver234250762
+2020-08-28 18:08:98 INFO  WaitHelper :37 - Implicit wait is set to :120
+2020-08-28 18:08:104 INFO  WaitHelper :128 -  waiting for page to load for   SECONDS:Seconds
+2020-08-28 18:08:109 INFO  WaitHelper :131 - Page is Loaded
+2020-08-28 18:08:202 INFO  ExtentListener :26 - TestScreenShotTest is passed
+2020-09-01 10:09:434 INFO  Testbase :139 - Initilizing WebDriver1543043602
+2020-09-01 10:09:486 INFO  WaitHelper :37 - Implicit wait is set to :120
+2020-09-01 10:09:494 INFO  WaitHelper :128 -  waiting for page to load for   SECONDS:Seconds
+2020-09-01 10:09:501 INFO  WaitHelper :131 - Page is Loaded
+2020-09-01 10:09:495 INFO  AsserssionHelper :19 - making script Pass
+2020-09-01 10:09:395 INFO  AsserssionHelper :29 - making script Fail
+2020-09-01 10:09:771 INFO  AsserssionHelper :29 - making script Fail
+2020-09-01 10:09:140 INFO  AsserssionHelper :19 - making script Pass
+2020-09-01 10:09:290 INFO  Testbase :139 - Initilizing WebDriver1543043602
+2020-09-01 10:09:295 INFO  WaitHelper :37 - Implicit wait is set to :120
+2020-09-01 10:09:305 INFO  WaitHelper :128 -  waiting for page to load for   SECONDS:Seconds
+2020-09-01 10:09:309 INFO  WaitHelper :131 - Page is Loaded
+2020-09-01 10:09:485 INFO  AsserssionHelper :19 - making script Pass
+2020-09-01 10:09:176 INFO  AsserssionHelper :29 - making script Fail
+2020-09-01 10:09:596 INFO  AsserssionHelper :29 - making script Fail
+2020-09-01 10:09:93 INFO  AsserssionHelper :19 - making script Pass
+2020-09-01 10:09:827 INFO  Testbase :139 - Initilizing WebDriver1543043602
+2020-09-01 10:09:832 INFO  WaitHelper :37 - Implicit wait is set to :120
+2020-09-01 10:09:839 INFO  WaitHelper :128 -  waiting for page to load for   SECONDS:Seconds
+2020-09-01 10:09:844 INFO  WaitHelper :131 - Page is Loaded
+2020-09-01 10:09:947 INFO  ExtentListener :37 - ATest is started
+2020-09-01 10:09:48 INFO  ExtentListener :26 - ATest is passed
+2020-09-01 10:09:51 INFO  ExtentListener :37 - BTest is started
+2020-09-01 10:09:75 INFO  ExtentListener :26 - BTest is passed
+2020-09-01 10:09:78 INFO  ExtentListener :37 - CTest is started
+2020-09-01 10:09:93 INFO  ExtentListener :26 - CTest is passed
+2020-09-01 10:09:95 INFO  ExtentListener :37 - TestScreenShotTest is started
+2020-09-01 10:09:02 INFO  Testbase :139 - Initilizing WebDriver1524305331
+2020-09-01 10:09:05 INFO  WaitHelper :37 - Implicit wait is set to :120
+2020-09-01 10:09:12 INFO  WaitHelper :128 -  waiting for page to load for   SECONDS:Seconds
+2020-09-01 10:09:17 INFO  WaitHelper :131 - Page is Loaded
+2020-09-01 10:09:884 INFO  ExtentListener :26 - TestScreenShotTest is passed
+2020-09-01 10:09:612 INFO  ExtentListener :37 - ATest is started
+2020-09-01 10:09:913 INFO  ExtentListener :26 - ATest is passed
+2020-09-01 10:09:915 INFO  ExtentListener :37 - BTest is started
+2020-09-01 10:09:23 INFO  ExtentListener :26 - BTest is passed
+2020-09-01 10:09:25 INFO  ExtentListener :37 - CTest is started
+2020-09-01 10:09:83 INFO  ExtentListener :26 - CTest is passed
+2020-09-01 10:09:87 INFO  ExtentListener :37 - TestScreenShotTest is started
+2020-09-01 10:09:870 INFO  Testbase :139 - Initilizing WebDriver1527214863
+2020-09-01 10:09:875 INFO  WaitHelper :37 - Implicit wait is set to :120
+2020-09-01 10:09:880 INFO  WaitHelper :128 -  waiting for page to load for   SECONDS:Seconds
+2020-09-01 10:09:884 INFO  WaitHelper :131 - Page is Loaded
+2020-09-01 10:09:604 INFO  ExtentListener :26 - TestScreenShotTest is passed
+2020-09-01 10:09:520 INFO  ExtentListener :37 - ATest is started
+2020-09-01 10:09:592 INFO  ExtentListener :26 - A  Test is passed
+2020-09-01 10:09:595 INFO  ExtentListener :37 - BTest is started
+2020-09-01 10:09:611 INFO  ExtentListener :26 - B  Test is passed
+2020-09-01 10:09:613 INFO  ExtentListener :37 - CTest is started
+2020-09-01 10:09:625 INFO  ExtentListener :26 - C  Test is passed
+2020-09-01 10:09:627 INFO  ExtentListener :37 - TestScreenShotTest is started
+2020-09-01 10:09:817 INFO  Testbase :139 - Initilizing WebDriver1524305331
+2020-09-01 10:09:819 INFO  WaitHelper :37 - Implicit wait is set to :120
+2020-09-01 10:09:826 INFO  WaitHelper :128 -  waiting for page to load for   SECONDS:Seconds
+2020-09-01 10:09:830 INFO  WaitHelper :131 - Page is Loaded
+2020-09-01 10:09:491 INFO  ExtentListener :26 - TestScreenShot  Test is passed
+2020-09-01 10:09:411 INFO  ExtentListener :37 - A   Class started
+2020-09-01 10:09:482 INFO  ExtentListener :26 - A  Test is finished.
+2020-09-01 10:09:484 INFO  ExtentListener :37 - B   Class started
+2020-09-01 10:09:502 INFO  ExtentListener :26 - B  Test is finished.
+2020-09-01 10:09:503 INFO  ExtentListener :37 - C   Class started
+2020-09-01 10:09:515 INFO  ExtentListener :26 - C  Test is finished.
+2020-09-01 10:09:516 INFO  ExtentListener :37 - TestScreenShot   Class started
+2020-09-01 10:09:234 INFO  Testbase :139 - Initilizing WebDriver1524305331
+2020-09-01 10:09:236 INFO  WaitHelper :37 - Implicit wait is set to :120
+2020-09-01 10:09:244 INFO  WaitHelper :128 -  waiting for page to load for   SECONDS:Seconds
+2020-09-01 10:09:248 INFO  WaitHelper :131 - Page is Loaded
+2020-09-01 10:09:262 INFO  ExtentListener :26 - TestScreenShot  Test is finished.
+2020-09-01 10:09:867 INFO  ExtentListener :37 - A   Class started
+2020-09-01 10:09:938 INFO  ExtentListener :26 - A  Test is finished.
+2020-09-01 10:09:940 INFO  ExtentListener :37 - B   Class started
+2020-09-01 10:09:959 INFO  ExtentListener :26 - B  Test is finished.
+2020-09-01 10:09:959 INFO  ExtentListener :37 - C   Class started
+2020-09-01 10:09:975 INFO  ExtentListener :26 - C  Test is finished.
+2020-09-01 10:09:975 INFO  ExtentListener :37 - TestScreenShot   Class started
+2020-09-01 10:09:667 INFO  Testbase :139 - Initilizing WebDriver1524305331
+2020-09-01 10:09:671 INFO  WaitHelper :37 - Implicit wait is set to :120
+2020-09-01 10:09:678 INFO  WaitHelper :128 -  waiting for page to load for   SECONDS:Seconds
+2020-09-01 10:09:683 INFO  WaitHelper :131 - Page is Loaded
+2020-09-01 10:09:315 INFO  ExtentListener :26 - TestScreenShot  Test is finished.
+2020-09-01 11:09:682 INFO  ExtentListener :35 - A   Class started
+2020-09-01 11:09:747 INFO  ExtentListener :24 - A  Test is finished.
+2020-09-01 11:09:747 INFO  ExtentListener :35 - B   Class started
+2020-09-01 11:09:762 INFO  ExtentListener :24 - B  Test is finished.
+2020-09-01 11:09:762 INFO  ExtentListener :35 - C   Class started
+2020-09-01 11:09:778 INFO  ExtentListener :24 - C  Test is finished.
+2020-09-01 11:09:778 INFO  ExtentListener :35 - TestScreenShot   Class started
+2020-09-01 11:09:764 INFO  Testbase :139 - Initilizing WebDriver1524305331
+2020-09-01 11:09:766 INFO  WaitHelper :37 - Implicit wait is set to :120
+2020-09-01 11:09:776 INFO  WaitHelper :128 -  waiting for page to load for   SECONDS:Seconds
+2020-09-01 11:09:781 INFO  WaitHelper :131 - Page is Loaded
+2020-09-01 11:09:944 INFO  ExtentListener :24 - TestScreenShot  Test is finished.
+2020-09-01 11:09:817 INFO  ExtentListener :35 - A   Class started
+2020-09-01 11:09:886 INFO  ExtentListener :26 - A  Test is finished.
+2020-09-01 11:09:888 INFO  ExtentListener :35 - B   Class started
+2020-09-01 11:09:894 ERROR ExtentListener :41 - DemoB  Test is failedjava.lang.AssertionError: expected [true] but found [false]
+2020-09-01 11:09:905 INFO  ExtentListener :26 - B  Test is finished.
+2020-09-01 11:09:906 INFO  ExtentListener :35 - C   Class started
+2020-09-01 11:09:912 ERROR ExtentListener :41 - DemoC  Test is failedjava.lang.AssertionError: expected [true] but found [false]
+2020-09-01 11:09:921 INFO  ExtentListener :26 - C  Test is finished.
+2020-09-01 11:09:922 INFO  ExtentListener :35 - TestScreenShot   Class started
+2020-09-01 11:09:901 INFO  Testbase :139 - Initilizing WebDriver443942537
+2020-09-01 11:09:903 INFO  WaitHelper :37 - Implicit wait is set to :120
+2020-09-01 11:09:909 INFO  WaitHelper :128 -  waiting for page to load for   SECONDS:Seconds
+2020-09-01 11:09:913 INFO  WaitHelper :131 - Page is Loaded
+2020-09-01 11:09:267 INFO  ExtentListener :26 - TestScreenShot  Test is finished.
+2020-09-01 11:09:319 INFO  ExtentListener :34 - A   Class started
+2020-09-01 11:09:351 INFO  ExtentListener :53 - a  Test strted..
+2020-09-01 11:09:357 INFO  ExtentListener :62 - a Test Passed..
+2020-09-01 11:09:381 INFO  ExtentListener :25 - A  Test is finished.
+2020-09-01 11:09:382 INFO  ExtentListener :34 - B   Class started
+2020-09-01 11:09:386 INFO  ExtentListener :53 - DemoB  Test strted..
+2020-09-01 11:09:391 ERROR ExtentListener :40 - DemoB  Test is failedjava.lang.AssertionError: expected [true] but found [false]
+2020-09-01 11:09:401 INFO  ExtentListener :25 - B  Test is finished.
+2020-09-01 11:09:403 INFO  ExtentListener :34 - C   Class started
+2020-09-01 11:09:407 INFO  ExtentListener :53 - DemoC  Test strted..
+2020-09-01 11:09:410 ERROR ExtentListener :40 - DemoC  Test is failedjava.lang.AssertionError: expected [true] but found [false]
+2020-09-01 11:09:417 INFO  ExtentListener :25 - C  Test is finished.
+2020-09-01 11:09:418 INFO  ExtentListener :34 - TestScreenShot   Class started
+2020-09-01 11:09:155 INFO  Testbase :139 - Initilizing WebDriver443942537
+2020-09-01 11:09:157 INFO  WaitHelper :37 - Implicit wait is set to :120
+2020-09-01 11:09:164 INFO  WaitHelper :128 -  waiting for page to load for   SECONDS:Seconds
+2020-09-01 11:09:169 INFO  WaitHelper :131 - Page is Loaded
+2020-09-01 11:09:468 INFO  ExtentListener :53 - testScree  Test strted..
+2020-09-01 11:09:94 INFO  ExtentListener :62 - testScree Test Passed..
+2020-09-01 11:09:518 INFO  ExtentListener :25 - TestScreenShot  Test is finished.
+2020-09-01 11:09:894 INFO  ExtentListener :34 - A   Class started
+2020-09-01 11:09:928 INFO  ExtentListener :53 - a  Test strted..
+2020-09-01 11:09:935 INFO  ExtentListener :62 - a Test Passed..
+2020-09-01 11:09:958 INFO  ExtentListener :25 - A  Test is finished.
+2020-09-01 11:09:963 INFO  ExtentListener :34 - B   Class started
+2020-09-01 11:09:971 INFO  ExtentListener :53 - DemoB  Test strted..
+2020-09-01 11:09:977 ERROR ExtentListener :40 - DemoB  Test is failedjava.lang.AssertionError: expected [true] but found [false]
+2020-09-01 11:09:990 INFO  ExtentListener :25 - B  Test is finished.
+2020-09-01 11:09:993 INFO  ExtentListener :34 - C   Class started
+2020-09-01 11:09:997 INFO  ExtentListener :53 - DemoC  Test strted..
+2020-09-01 11:09:02 ERROR ExtentListener :40 - DemoC  Test is failedjava.lang.AssertionError: expected [true] but found [false]
+2020-09-01 11:09:23 INFO  ExtentListener :25 - C  Test is finished.
+2020-09-01 11:09:28 INFO  ExtentListener :34 - TestScreenShot   Class started
+2020-09-01 11:09:969 INFO  Testbase :139 - Initilizing WebDriver443942537
+2020-09-01 11:09:971 INFO  WaitHelper :37 - Implicit wait is set to :120
+2020-09-01 11:09:976 INFO  WaitHelper :128 -  waiting for page to load for   SECONDS:Seconds
+2020-09-01 11:09:981 INFO  WaitHelper :131 - Page is Loaded
+2020-09-01 11:09:917 INFO  ExtentListener :53 - testScree  Test strted..
+2020-09-01 11:09:787 INFO  ExtentListener :62 - testScree Test Passed..
+2020-09-01 11:09:32 INFO  ExtentListener :25 - TestScreenShot  Test is finished.
+2020-09-01 11:09:642 INFO  ExtentListener :34 - A   Class started
+2020-09-01 11:09:687 INFO  ExtentListener :53 - a  Test strted..
+2020-09-01 11:09:695 INFO  ExtentListener :62 - a Test Passed..
+2020-09-01 11:09:721 INFO  ExtentListener :25 - A  Test is finished.
+2020-09-01 11:09:723 INFO  ExtentListener :34 - B   Class started
+2020-09-01 11:09:727 INFO  ExtentListener :53 - DemoB  Test strted..
+2020-09-01 11:09:731 ERROR ExtentListener :40 - DemoB  Test is failedjava.lang.AssertionError: expected [true] but found [false]
+2020-09-01 11:09:751 INFO  ExtentListener :25 - B  Test is finished.
+2020-09-01 11:09:752 INFO  ExtentListener :34 - C   Class started
+2020-09-01 11:09:756 INFO  ExtentListener :53 - DemoC  Test strted..
+2020-09-01 11:09:760 ERROR ExtentListener :40 - DemoC  Test is failedjava.lang.AssertionError: expected [true] but found [false]
+2020-09-01 11:09:775 INFO  ExtentListener :25 - C  Test is finished.
+2020-09-01 11:09:777 INFO  ExtentListener :34 - TestScreenShot   Class started
+2020-09-01 11:09:662 INFO  Testbase :139 - Initilizing WebDriver443942537
+2020-09-01 11:09:663 INFO  WaitHelper :37 - Implicit wait is set to :120
+2020-09-01 11:09:669 INFO  WaitHelper :128 -  waiting for page to load for   SECONDS:Seconds
+2020-09-01 11:09:674 INFO  WaitHelper :131 - Page is Loaded
+2020-09-01 11:09:756 INFO  ExtentListener :53 - testScree  Test strted..
+2020-09-01 11:09:174 INFO  ExtentListener :62 - testScree Test Passed..
+2020-09-01 11:09:399 INFO  ExtentListener :25 - TestScreenShot  Test is finished.
+2020-09-07 15:09:841 INFO  Testbase :139 - Initilizing WebDriver322112198
+2020-09-07 15:09:858 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 15:09:858 INFO  WaitHelper :38 - Implicit wait is set to :120
+2020-09-07 15:09:867 INFO  WaitHelper :129 -  waiting for page to load for   SECONDS:Seconds
+2020-09-07 15:09:871 INFO  WaitHelper :132 - Page is Loaded
+2020-09-07 15:09:818 INFO  Testbase :194 - Navigating to >>>>>>http://automationpractice.com/index.php
+2020-09-07 15:09:840 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 15:09:858 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (ee4116b0c10f1adca481be36f03a2760)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]  for  120Seconds
+2020-09-07 15:09:260 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-07 15:09:260 INFO  Testbase :176 - Capturing screen....
+2020-09-07 15:09:986 INFO  LogInPage :49 - Waiting for Loging page fully loaded
+2020-09-07 15:09:986 INFO  LogInPage :55 - Clicking signin Buttton
+2020-09-07 15:09:585 INFO  LogInPage :63 - Entering Email address....balasrikanth48@gmail.com
+2020-09-07 15:09:702 INFO  LogInPage :71 - Entering password   Sr!kanth656697
+2020-09-07 15:09:801 INFO  LogInPage :77 - Clicking sginIn submit button
+2020-09-07 15:09:803 INFO  JavaScriptHelper :16 - javascript executer is initialised
+2020-09-07 15:09:815 INFO  JavaScriptHelper :90 - Scrolling dwon verticallly
+2020-09-07 15:09:775 INFO  VerificationHelper :31 - element is presentWelcome to your account. Here you can manage all of your personal information and orders.
+2020-09-07 16:09:125 INFO  Testbase :139 - Initilizing WebDriver1543043602
+2020-09-07 16:09:128 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 16:09:129 INFO  WaitHelper :38 - Implicit wait is set to :120
+2020-09-07 16:09:137 INFO  WaitHelper :129 -  waiting for page to load for   SECONDS:Seconds
+2020-09-07 16:09:140 INFO  WaitHelper :132 - Page is Loaded
+2020-09-07 16:09:672 INFO  Testbase :194 - Navigating to >>>>>>http://automationpractice.com/index.php
+2020-09-07 16:09:693 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 16:09:715 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (91c035e72affa865cc65afb23aec7b89)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]  for  120Seconds
+2020-09-07 16:09:780 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-07 16:09:780 INFO  Testbase :176 - Capturing screen....
+2020-09-07 16:09:517 INFO  LogInPage :49 - Waiting for Loging page fully loaded
+2020-09-07 16:09:517 INFO  LogInPage :55 - Clicking signin Buttton
+2020-09-07 16:09:830 INFO  LogInPage :93 - entering email id for registraion is 1599476726830@gmail.com
+2020-09-07 16:09:36 INFO  LogInPage :99 - Clicking New Registraion page
+2020-09-07 16:09:40 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 16:09:555 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (91c035e72affa865cc65afb23aec7b89)] -> xpath: //*[@id='id_gender1']]  for  120Seconds
+2020-09-07 16:09:589 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-07 16:09:590 INFO  Testbase :176 - Capturing screen....
+2020-09-07 16:09:998 INFO  LogInPage :76 - Registration page Object is created
+2020-09-07 16:09:831 INFO  Testbase :139 - Initilizing WebDriver1543043602
+2020-09-07 16:09:834 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 16:09:835 INFO  WaitHelper :38 - Implicit wait is set to :120
+2020-09-07 16:09:842 INFO  WaitHelper :129 -  waiting for page to load for   SECONDS:Seconds
+2020-09-07 16:09:847 INFO  WaitHelper :132 - Page is Loaded
+2020-09-07 16:09:956 INFO  RegistrationTest :25 - Conducting Registration testcase
+2020-09-07 16:09:433 INFO  Testbase :194 - Navigating to >>>>>>http://automationpractice.com/index.php
+2020-09-07 16:09:457 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 16:09:483 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (93fa2adc551cce7231e09d5bddf98f7d)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]  for  120Seconds
+2020-09-07 16:09:554 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-07 16:09:554 INFO  Testbase :176 - Capturing screen....
+2020-09-07 16:09:348 INFO  LogInPage :49 - Waiting for Loging page fully loaded
+2020-09-07 16:09:348 INFO  LogInPage :55 - Clicking signin Buttton
+2020-09-07 16:09:518 INFO  LogInPage :93 - entering email id for registraion is 1599476889518@gmail.com
+2020-09-07 16:09:719 INFO  LogInPage :99 - Clicking New Registraion page
+2020-09-07 16:09:722 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 16:09:312 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (93fa2adc551cce7231e09d5bddf98f7d)] -> xpath: //*[@id='id_gender1']]  for  120Seconds
+2020-09-07 16:09:344 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-07 16:09:345 INFO  Testbase :176 - Capturing screen....
+2020-09-07 16:09:720 INFO  LogInPage :73 - Registration page Object is created
+2020-09-07 16:09:570 INFO  Testbase :139 - Initilizing WebDriver1543043602
+2020-09-07 16:09:573 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 16:09:574 INFO  WaitHelper :38 - Implicit wait is set to :120
+2020-09-07 16:09:581 INFO  WaitHelper :129 -  waiting for page to load for   SECONDS:Seconds
+2020-09-07 16:09:586 INFO  WaitHelper :132 - Page is Loaded
+2020-09-07 16:09:970 INFO  RegistrationTest :25 - Conducting Registration testcase
+2020-09-07 16:09:336 INFO  Testbase :194 - Navigating to >>>>>>http://automationpractice.com/index.php
+2020-09-07 16:09:357 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 16:09:377 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (e485726254ea0b4e7e6699e6d22a03c6)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]  for  120Seconds
+2020-09-07 16:09:441 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-07 16:09:441 INFO  Testbase :176 - Capturing screen....
+2020-09-07 16:09:190 INFO  LogInPage :49 - Waiting for Loging page fully loaded
+2020-09-07 16:09:191 INFO  LogInPage :55 - Clicking signin Buttton
+2020-09-07 16:09:338 INFO  LogInPage :93 - entering email id for registraion is 1599477170338@gmail.com
+2020-09-07 16:09:533 INFO  LogInPage :99 - Clicking New Registraion page
+2020-09-07 16:09:536 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 16:09:67 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (e485726254ea0b4e7e6699e6d22a03c6)] -> xpath: //*[@id='id_gender1']]  for  120Seconds
+2020-09-07 16:09:99 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-07 16:09:100 INFO  Testbase :176 - Capturing screen....
+2020-09-07 16:09:499 INFO  LogInPage :73 - Registration page Object is created
+2020-09-07 16:09:55 INFO  Testbase :139 - Initilizing WebDriver1543043602
+2020-09-07 16:09:58 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 16:09:59 INFO  WaitHelper :38 - Implicit wait is set to :120
+2020-09-07 16:09:67 INFO  WaitHelper :129 -  waiting for page to load for   SECONDS:Seconds
+2020-09-07 16:09:71 INFO  WaitHelper :132 - Page is Loaded
+2020-09-07 16:09:389 INFO  RegistrationTest :25 - Conducting Registration testcase
+2020-09-07 16:09:588 INFO  Testbase :194 - Navigating to >>>>>>http://automationpractice.com/index.php
+2020-09-07 16:09:607 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 16:09:624 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (bf3b8d36a0cc059f3948129acccdc235)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]  for  120Seconds
+2020-09-07 16:09:692 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-07 16:09:693 INFO  Testbase :176 - Capturing screen....
+2020-09-07 16:09:538 INFO  LogInPage :49 - Waiting for Loging page fully loaded
+2020-09-07 16:09:538 INFO  LogInPage :55 - Clicking signin Buttton
+2020-09-07 16:09:314 INFO  LogInPage :93 - entering email id for registraion is 1599477379314@gmail.com
+2020-09-07 16:09:521 INFO  LogInPage :99 - Clicking New Registraion page
+2020-09-07 16:09:525 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 16:09:599 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (bf3b8d36a0cc059f3948129acccdc235)] -> xpath: //*[@id='id_gender1']]  for  120Seconds
+2020-09-07 16:09:629 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-07 16:09:630 INFO  Testbase :176 - Capturing screen....
+2020-09-07 16:09:50 INFO  LogInPage :73 - Registration page Object is created
+2020-09-07 16:09:641 INFO  Testbase :139 - Initilizing WebDriver1543043602
+2020-09-07 16:09:645 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 16:09:645 INFO  WaitHelper :38 - Implicit wait is set to :120
+2020-09-07 16:09:651 INFO  WaitHelper :129 -  waiting for page to load for   SECONDS:Seconds
+2020-09-07 16:09:655 INFO  WaitHelper :132 - Page is Loaded
+2020-09-07 16:09:247 INFO  RegistrationTest :25 - Conducting Registration testcase
+2020-09-07 16:09:523 INFO  Testbase :194 - Navigating to >>>>>>http://automationpractice.com/index.php
+2020-09-07 16:09:545 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 16:09:565 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (3f2b35a76d3bbb290d9c9c0c4a2eafa9)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]  for  120Seconds
+2020-09-07 16:09:645 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-07 16:09:646 INFO  Testbase :176 - Capturing screen....
+2020-09-07 16:09:451 INFO  LogInPage :49 - Waiting for Loging page fully loaded
+2020-09-07 16:09:451 INFO  LogInPage :55 - Clicking signin Buttton
+2020-09-07 16:09:277 INFO  LogInPage :93 - entering email id for registraion is 1599477465277@gmail.com
+2020-09-07 16:09:478 INFO  LogInPage :99 - Clicking New Registraion page
+2020-09-07 16:09:482 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 16:09:183 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (3f2b35a76d3bbb290d9c9c0c4a2eafa9)] -> xpath: //*[@id='id_gender1']]  for  120Seconds
+2020-09-07 16:09:216 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-07 16:09:216 INFO  Testbase :176 - Capturing screen....
+2020-09-07 16:09:607 INFO  LogInPage :73 - Registration page Object is created
+2020-09-07 16:09:608 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 16:09:623 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (3f2b35a76d3bbb290d9c9c0c4a2eafa9)] -> xpath: //*[@id='id_gender1']]  for  120Seconds
+2020-09-07 16:09:646 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-07 16:09:646 INFO  Testbase :176 - Capturing screen....
+2020-09-07 16:09:989 INFO  LogInPage :73 - Registration page Object is created
+2020-09-07 16:09:990 INFO  LogInPage :79 - Mr Radio Button is selecting
+2020-09-07 16:09:46 INFO  LogInPage :86 - Entering FirstName is ::firstname
+2020-09-07 16:09:140 INFO  LogInPage :92 - Entering lastName is ::lasstname
+2020-09-07 16:09:225 INFO  LogInPage :98 - Entering password is ::password
+2020-09-07 16:09:296 INFO  LogInPage :105 - Selecting the month is ::7
+2020-09-07 16:09:462 INFO  LogInPage :124 - ESelecting the month is ::September
+2020-09-07 16:09:626 INFO  LogInPage :143 - Selecting the year is ::2020
+2020-09-07 16:09:697 INFO  LogInPage :164 - Entering Address First Name::::address
+2020-09-07 16:09:771 INFO  LogInPage :171 - Entering Address LastName::::latname
+2020-09-07 16:09:842 INFO  LogInPage :178 - Entering Company Name::::company
+2020-09-07 16:09:912 INFO  LogInPage :185 - Entering Address Line1::::lne1
+2020-09-07 16:09:984 INFO  LogInPage :192 - Entering Address Lin2::::line2
+2020-09-07 16:09:46 INFO  LogInPage :199 - Entering city name::::hyd
+2020-09-07 16:09:108 INFO  LogInPage :206 - Selecting state ::::andra
+2020-09-07 16:09:109 INFO  DropDownHelper :21 - DropDownHelper Object is created
+2020-09-07 16:09:613 INFO  Testbase :139 - Initilizing WebDriver1543043602
+2020-09-07 16:09:617 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 16:09:617 INFO  WaitHelper :38 - Implicit wait is set to :120
+2020-09-07 16:09:625 INFO  WaitHelper :129 -  waiting for page to load for   SECONDS:Seconds
+2020-09-07 16:09:629 INFO  WaitHelper :132 - Page is Loaded
+2020-09-07 16:09:332 INFO  RegistrationTest :25 - Conducting Registration testcase
+2020-09-07 16:09:934 INFO  Testbase :194 - Navigating to >>>>>>http://automationpractice.com/index.php
+2020-09-07 16:09:956 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 16:09:975 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (4df231e86fc0e0d886c8fe1cef0c1e5e)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]  for  120Seconds
+2020-09-07 16:09:42 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-07 16:09:43 INFO  Testbase :176 - Capturing screen....
+2020-09-07 16:09:776 INFO  LogInPage :49 - Waiting for Loging page fully loaded
+2020-09-07 16:09:776 INFO  LogInPage :55 - Clicking signin Buttton
+2020-09-07 16:09:953 INFO  LogInPage :93 - entering email id for registraion is 1599477583953@gmail.com
+2020-09-07 16:09:150 INFO  LogInPage :99 - Clicking New Registraion page
+2020-09-07 16:09:154 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 16:09:847 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (4df231e86fc0e0d886c8fe1cef0c1e5e)] -> xpath: //*[@id='id_gender1']]  for  120Seconds
+2020-09-07 16:09:880 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-07 16:09:880 INFO  Testbase :176 - Capturing screen....
+2020-09-07 16:09:247 INFO  LogInPage :73 - Registration page Object is created
+2020-09-07 16:09:249 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 16:09:263 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (4df231e86fc0e0d886c8fe1cef0c1e5e)] -> xpath: //*[@id='id_gender1']]  for  120Seconds
+2020-09-07 16:09:287 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-07 16:09:287 INFO  Testbase :176 - Capturing screen....
+2020-09-07 16:09:662 INFO  LogInPage :73 - Registration page Object is created
+2020-09-07 16:09:663 INFO  LogInPage :79 - Mr Radio Button is selecting
+2020-09-07 16:09:720 INFO  LogInPage :86 - Entering FirstName is ::firstname
+2020-09-07 16:09:811 INFO  LogInPage :92 - Entering lastName is ::lasstname
+2020-09-07 16:09:895 INFO  LogInPage :98 - Entering password is ::password
+2020-09-07 16:09:980 INFO  LogInPage :105 - Selecting the month is ::7
+2020-09-07 16:09:117 INFO  LogInPage :124 - ESelecting the month is ::September
+2020-09-07 16:09:272 INFO  LogInPage :143 - Selecting the year is ::2020
+2020-09-07 16:09:348 INFO  LogInPage :164 - Entering Address First Name::::address
+2020-09-07 16:09:419 INFO  LogInPage :171 - Entering Address LastName::::latname
+2020-09-07 16:09:495 INFO  LogInPage :178 - Entering Company Name::::company
+2020-09-07 16:09:569 INFO  LogInPage :185 - Entering Address Line1::::lne1
+2020-09-07 16:09:634 INFO  LogInPage :192 - Entering Address Lin2::::line2
+2020-09-07 16:09:697 INFO  LogInPage :199 - Entering city name::::hyd
+2020-09-07 16:09:756 INFO  LogInPage :206 - Selecting state ::::Alaska
+2020-09-07 16:09:787 INFO  DropDownHelper :21 - DropDownHelper Object is created
+2020-09-07 17:09:448 INFO  Testbase :139 - Initilizing WebDriver1543043602
+2020-09-07 17:09:453 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 17:09:453 INFO  WaitHelper :38 - Implicit wait is set to :120
+2020-09-07 17:09:460 INFO  WaitHelper :129 -  waiting for page to load for   SECONDS:Seconds
+2020-09-07 17:09:464 INFO  WaitHelper :132 - Page is Loaded
+2020-09-07 17:09:565 INFO  RegistrationTest :25 - Conducting Registration testcase
+2020-09-07 17:09:300 INFO  Testbase :194 - Navigating to >>>>>>http://automationpractice.com/index.php
+2020-09-07 17:09:320 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 17:09:354 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (6a781e837e9f02ac2b7d182598ad39a6)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]  for  120Seconds
+2020-09-07 17:09:430 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-07 17:09:430 INFO  Testbase :176 - Capturing screen....
+2020-09-07 17:09:236 INFO  LogInPage :49 - Waiting for Loging page fully loaded
+2020-09-07 17:09:236 INFO  LogInPage :55 - Clicking signin Buttton
+2020-09-07 17:09:291 INFO  LogInPage :93 - entering email id for registraion is 1599478428291@gmail.com
+2020-09-07 17:09:494 INFO  LogInPage :99 - Clicking New Registraion page
+2020-09-07 17:09:498 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 17:09:746 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (6a781e837e9f02ac2b7d182598ad39a6)] -> xpath: //*[@id='id_gender1']]  for  120Seconds
+2020-09-07 17:09:777 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-07 17:09:777 INFO  Testbase :176 - Capturing screen....
+2020-09-07 17:09:179 INFO  LogInPage :73 - Registration page Object is created
+2020-09-07 17:09:180 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 17:09:197 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (6a781e837e9f02ac2b7d182598ad39a6)] -> xpath: //*[@id='id_gender1']]  for  120Seconds
+2020-09-07 17:09:222 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-07 17:09:223 INFO  Testbase :176 - Capturing screen....
+2020-09-07 17:09:588 INFO  LogInPage :73 - Registration page Object is created
+2020-09-07 17:09:588 INFO  LogInPage :79 - Mr Radio Button is selecting
+2020-09-07 17:09:640 INFO  LogInPage :86 - Entering FirstName is ::firstname
+2020-09-07 17:09:725 INFO  LogInPage :92 - Entering lastName is ::lasstname
+2020-09-07 17:09:804 INFO  LogInPage :98 - Entering password is ::password
+2020-09-07 17:09:879 INFO  LogInPage :105 - Selecting the month is ::7
+2020-09-07 17:09:35 INFO  LogInPage :124 - ESelecting the month is ::September
+2020-09-07 17:09:201 INFO  LogInPage :143 - Selecting the year is ::2020
+2020-09-07 17:09:276 INFO  LogInPage :164 - Entering Address First Name::::address
+2020-09-07 17:09:351 INFO  LogInPage :171 - Entering Address LastName::::latname
+2020-09-07 17:09:427 INFO  LogInPage :178 - Entering Company Name::::company
+2020-09-07 17:09:506 INFO  LogInPage :185 - Entering Address Line1::::lne1
+2020-09-07 17:09:575 INFO  LogInPage :192 - Entering Address Lin2::::line2
+2020-09-07 17:09:643 INFO  LogInPage :199 - Entering city name::::hyd
+2020-09-07 17:09:710 INFO  LogInPage :206 - Selecting state ::::Alaska
+2020-09-07 17:09:711 INFO  DropDownHelper :21 - DropDownHelper Object is created
+2020-09-07 17:09:808 INFO  DropDownHelper :41 - DropDown value is:Alaskaselected
+2020-09-07 17:09:809 INFO  LogInPage :215 - Entering postal Code::::500019
+2020-09-07 17:09:882 INFO  LogInPage :222 - Selecting country ::::Indaia
+2020-09-07 17:09:884 INFO  DropDownHelper :21 - DropDownHelper Object is created
+2020-09-07 17:09:900 INFO  Testbase :139 - Initilizing WebDriver1543043602
+2020-09-07 17:09:903 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 17:09:904 INFO  WaitHelper :38 - Implicit wait is set to :120
+2020-09-07 17:09:910 INFO  WaitHelper :129 -  waiting for page to load for   SECONDS:Seconds
+2020-09-07 17:09:913 INFO  WaitHelper :132 - Page is Loaded
+2020-09-07 17:09:552 INFO  RegistrationTest :25 - Conducting Registration testcase
+2020-09-07 17:09:858 INFO  Testbase :194 - Navigating to >>>>>>http://automationpractice.com/index.php
+2020-09-07 17:09:879 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 17:09:900 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (d41a2437793ded93590c2d23b3791e7b)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]  for  120Seconds
+2020-09-07 17:09:971 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-07 17:09:972 INFO  Testbase :176 - Capturing screen....
+2020-09-07 17:09:727 INFO  LogInPage :49 - Waiting for Loging page fully loaded
+2020-09-07 17:09:728 INFO  LogInPage :55 - Clicking signin Buttton
+2020-09-07 17:09:688 INFO  LogInPage :93 - entering email id for registraion is 1599478554688@gmail.com
+2020-09-07 17:09:930 INFO  LogInPage :99 - Clicking New Registraion page
+2020-09-07 17:09:934 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 17:09:428 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (d41a2437793ded93590c2d23b3791e7b)] -> xpath: //*[@id='id_gender1']]  for  120Seconds
+2020-09-07 17:09:458 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-07 17:09:458 INFO  Testbase :176 - Capturing screen....
+2020-09-07 17:09:838 INFO  LogInPage :73 - Registration page Object is created
+2020-09-07 17:09:839 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 17:09:874 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (d41a2437793ded93590c2d23b3791e7b)] -> xpath: //*[@id='id_gender1']]  for  120Seconds
+2020-09-07 17:09:896 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-07 17:09:896 INFO  Testbase :176 - Capturing screen....
+2020-09-07 17:09:260 INFO  LogInPage :73 - Registration page Object is created
+2020-09-07 17:09:261 INFO  LogInPage :79 - Mr Radio Button is selecting
+2020-09-07 17:09:319 INFO  LogInPage :86 - Entering FirstName is ::firstname
+2020-09-07 17:09:417 INFO  LogInPage :92 - Entering lastName is ::lasstname
+2020-09-07 17:09:498 INFO  LogInPage :98 - Entering password is ::password
+2020-09-07 17:09:581 INFO  LogInPage :105 - Selecting the month is ::7
+2020-09-07 17:09:771 INFO  LogInPage :124 - ESelecting the month is ::September
+2020-09-07 17:09:931 INFO  LogInPage :143 - Selecting the year is ::2020
+2020-09-07 17:09:13 INFO  LogInPage :164 - Entering Address First Name::::address
+2020-09-07 17:09:94 INFO  LogInPage :171 - Entering Address LastName::::latname
+2020-09-07 17:09:176 INFO  LogInPage :178 - Entering Company Name::::company
+2020-09-07 17:09:259 INFO  LogInPage :185 - Entering Address Line1::::lne1
+2020-09-07 17:09:336 INFO  LogInPage :192 - Entering Address Lin2::::line2
+2020-09-07 17:09:413 INFO  LogInPage :199 - Entering city name::::hyd
+2020-09-07 17:09:479 INFO  LogInPage :206 - Selecting state ::::Alaska
+2020-09-07 17:09:480 INFO  DropDownHelper :21 - DropDownHelper Object is created
+2020-09-07 17:09:576 INFO  DropDownHelper :41 - DropDown value is:Alaskaselected
+2020-09-07 17:09:576 INFO  LogInPage :215 - Entering postal Code::::500019
+2020-09-07 17:09:661 INFO  LogInPage :222 - Selecting country ::::United States
+2020-09-07 17:09:661 INFO  DropDownHelper :21 - DropDownHelper Object is created
+2020-09-07 17:09:726 INFO  DropDownHelper :41 - DropDown value is:United Statesselected
+2020-09-07 17:09:726 INFO  LogInPage :231 - Entering other info::::other
+2020-09-07 17:09:792 INFO  LogInPage :238 - Entering Home Phone Number::::931231341
+2020-09-07 17:09:881 INFO  LogInPage :245 - Entering Home Phone Number::::4674564654654
+2020-09-07 17:09:962 INFO  LogInPage :251 - Entering alias name::::Alias
+2020-09-07 17:09:38 INFO  LogInPage :258 - Clicking Registration button
+2020-09-07 17:09:901 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 17:09:247 INFO  WaitHelper :138 - Waiting for Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='center_column']/div/div[1]/ul/li[1]/a/i'  for  120Seconds
+2020-09-07 17:09:448 INFO  Testbase :139 - Initilizing WebDriver1543043602
+2020-09-07 17:09:451 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 17:09:452 INFO  WaitHelper :38 - Implicit wait is set to :120
+2020-09-07 17:09:460 INFO  WaitHelper :129 -  waiting for page to load for   SECONDS:Seconds
+2020-09-07 17:09:464 INFO  WaitHelper :132 - Page is Loaded
+2020-09-07 17:09:702 INFO  RegistrationTest :25 - Conducting Registration testcase
+2020-09-07 17:09:305 INFO  Testbase :194 - Navigating to >>>>>>http://automationpractice.com/index.php
+2020-09-07 17:09:326 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 17:09:350 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (24b4cdd1e7d4df07b0b45630a0cf9de5)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]  for  120Seconds
+2020-09-07 17:09:418 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-07 17:09:419 INFO  Testbase :176 - Capturing screen....
+2020-09-07 17:09:276 INFO  LogInPage :49 - Waiting for Loging page fully loaded
+2020-09-07 17:09:276 INFO  LogInPage :55 - Clicking signin Buttton
+2020-09-07 17:09:138 INFO  LogInPage :93 - entering email id for registraion is 1599478616138@gmail.com
+2020-09-07 17:09:324 INFO  LogInPage :99 - Clicking New Registraion page
+2020-09-07 17:09:327 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 17:09:625 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (24b4cdd1e7d4df07b0b45630a0cf9de5)] -> xpath: //*[@id='id_gender1']]  for  120Seconds
+2020-09-07 17:09:669 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-07 17:09:669 INFO  Testbase :176 - Capturing screen....
+2020-09-07 17:09:37 INFO  LogInPage :73 - Registration page Object is created
+2020-09-07 17:09:38 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 17:09:54 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (24b4cdd1e7d4df07b0b45630a0cf9de5)] -> xpath: //*[@id='id_gender1']]  for  120Seconds
+2020-09-07 17:09:78 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-07 17:09:78 INFO  Testbase :176 - Capturing screen....
+2020-09-07 17:09:447 INFO  LogInPage :73 - Registration page Object is created
+2020-09-07 17:09:448 INFO  LogInPage :79 - Mr Radio Button is selecting
+2020-09-07 17:09:501 INFO  LogInPage :86 - Entering FirstName is ::firstname
+2020-09-07 17:09:590 INFO  LogInPage :92 - Entering lastName is ::lasstname
+2020-09-07 17:09:680 INFO  LogInPage :98 - Entering password is ::password
+2020-09-07 17:09:751 INFO  LogInPage :105 - Selecting the month is ::7
+2020-09-07 17:09:900 INFO  LogInPage :124 - ESelecting the month is ::September
+2020-09-07 17:09:66 INFO  LogInPage :143 - Selecting the year is ::2020
+2020-09-07 17:09:141 INFO  LogInPage :164 - Entering Address First Name::::address
+2020-09-07 17:09:226 INFO  LogInPage :171 - Entering Address LastName::::latname
+2020-09-07 17:09:303 INFO  LogInPage :178 - Entering Company Name::::company
+2020-09-07 17:09:384 INFO  LogInPage :185 - Entering Address Line1::::lne1
+2020-09-07 17:09:465 INFO  LogInPage :192 - Entering Address Lin2::::line2
+2020-09-07 17:09:540 INFO  LogInPage :199 - Entering city name::::hyd
+2020-09-07 17:09:609 INFO  LogInPage :206 - Selecting state ::::Alaska
+2020-09-07 17:09:610 INFO  DropDownHelper :21 - DropDownHelper Object is created
+2020-09-07 17:09:714 INFO  DropDownHelper :41 - DropDown value is:Alaskaselected
+2020-09-07 17:09:714 INFO  LogInPage :215 - Entering postal Code::::500019
+2020-09-07 17:09:791 INFO  LogInPage :222 - Selecting country ::::United States
+2020-09-07 17:09:792 INFO  DropDownHelper :21 - DropDownHelper Object is created
+2020-09-07 17:09:856 INFO  DropDownHelper :41 - DropDown value is:United Statesselected
+2020-09-07 17:09:856 INFO  LogInPage :231 - Entering other info::::other
+2020-09-07 17:09:922 INFO  LogInPage :238 - Entering Home Phone Number::::931231341
+2020-09-07 17:09:19 INFO  LogInPage :245 - Entering Home Phone Number::::4674564654654
+2020-09-07 17:09:103 INFO  LogInPage :251 - Entering alias name::::Alias
+2020-09-07 17:09:167 INFO  LogInPage :258 - Clicking Registration button
+2020-09-07 17:09:979 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 17:09:39 INFO  WaitHelper :138 - Waiting for Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='center_column']/div/div[1]/ul/li[1]/a/i'  for  120Seconds
+2020-09-07 17:09:591 INFO  Testbase :139 - Initilizing WebDriver1543043602
+2020-09-07 17:09:596 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 17:09:596 INFO  WaitHelper :38 - Implicit wait is set to :120
+2020-09-07 17:09:604 INFO  WaitHelper :129 -  waiting for page to load for   SECONDS:Seconds
+2020-09-07 17:09:609 INFO  WaitHelper :132 - Page is Loaded
+2020-09-07 17:09:694 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 17:09:358 INFO  Testbase :139 - Initilizing WebDriver1543043602
+2020-09-07 17:09:364 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 17:09:364 INFO  WaitHelper :38 - Implicit wait is set to :120
+2020-09-07 17:09:369 INFO  WaitHelper :129 -  waiting for page to load for   SECONDS:Seconds
+2020-09-07 17:09:373 INFO  WaitHelper :132 - Page is Loaded
+2020-09-07 17:09:386 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 18:09:473 INFO  WaitHelper :138 - Waiting for Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='block_top_menu']/ul/li[1]/a'  for  120Seconds
+2020-09-07 18:09:40 INFO  Testbase :139 - Initilizing WebDriver1543043602
+2020-09-07 18:09:45 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 18:09:46 INFO  WaitHelper :38 - Implicit wait is set to :120
+2020-09-07 18:09:51 INFO  WaitHelper :129 -  waiting for page to load for   SECONDS:Seconds
+2020-09-07 18:09:55 INFO  WaitHelper :132 - Page is Loaded
+2020-09-07 18:09:332 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 18:09:860 INFO  WaitHelper :138 - Waiting for Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='block_top_menu']/ul/li[1]/a'  for  120Seconds
+2020-09-07 18:09:63 INFO  Testbase :139 - Initilizing WebDriver1543043602
+2020-09-07 18:09:67 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 18:09:67 INFO  WaitHelper :38 - Implicit wait is set to :120
+2020-09-07 18:09:73 INFO  WaitHelper :129 -  waiting for page to load for   SECONDS:Seconds
+2020-09-07 18:09:81 INFO  WaitHelper :132 - Page is Loaded
+2020-09-07 18:09:344 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 18:09:388 INFO  WaitHelper :138 - Waiting for Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='block_top_menu']/ul/li[1]/a'  for  120Seconds
+2020-09-07 18:09:605 INFO  Testbase :139 - Initilizing WebDriver1543043602
+2020-09-07 18:09:612 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 18:09:613 INFO  WaitHelper :38 - Implicit wait is set to :120
+2020-09-07 18:09:621 INFO  WaitHelper :129 -  waiting for page to load for   SECONDS:Seconds
+2020-09-07 18:09:625 INFO  WaitHelper :132 - Page is Loaded
+2020-09-07 18:09:931 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 18:09:04 INFO  WaitHelper :138 - Waiting for Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='block_top_menu']/ul/li[1]/a'  for  120Seconds
+2020-09-07 18:09:488 INFO  Testbase :139 - Initilizing WebDriver1543043602
+2020-09-07 18:09:493 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 18:09:494 INFO  WaitHelper :38 - Implicit wait is set to :120
+2020-09-07 18:09:500 INFO  WaitHelper :129 -  waiting for page to load for   SECONDS:Seconds
+2020-09-07 18:09:508 INFO  WaitHelper :132 - Page is Loaded
+2020-09-07 18:09:477 INFO  RegistrationTest :25 - Conducting Registration testcase
+2020-09-07 18:09:865 INFO  Testbase :194 - Navigating to >>>>>>http://automationpractice.com/index.php
+2020-09-07 18:09:887 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 18:09:911 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (b31925e02a0de1fd50c932697dd6efb3)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]  for  120Seconds
+2020-09-07 18:09:983 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-07 18:09:983 INFO  Testbase :176 - Capturing screen....
+2020-09-07 18:09:784 INFO  LogInPage :49 - Waiting for Loging page fully loaded
+2020-09-07 18:09:784 INFO  LogInPage :55 - Clicking signin Buttton
+2020-09-07 18:09:675 INFO  LogInPage :93 - entering email id for registraion is 1599483993675@gmail.com
+2020-09-07 18:09:872 INFO  LogInPage :99 - Clicking New Registraion page
+2020-09-07 18:09:876 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 18:09:718 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (b31925e02a0de1fd50c932697dd6efb3)] -> xpath: //*[@id='id_gender1']]  for  120Seconds
+2020-09-07 18:09:752 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-07 18:09:752 INFO  Testbase :176 - Capturing screen....
+2020-09-07 18:09:140 INFO  LogInPage :73 - Registration page Object is created
+2020-09-07 18:09:144 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 18:09:156 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (b31925e02a0de1fd50c932697dd6efb3)] -> xpath: //*[@id='id_gender1']]  for  120Seconds
+2020-09-07 18:09:184 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-07 18:09:184 INFO  Testbase :176 - Capturing screen....
+2020-09-07 18:09:564 INFO  LogInPage :73 - Registration page Object is created
+2020-09-07 18:09:564 INFO  LogInPage :79 - Mr Radio Button is selecting
+2020-09-07 18:09:620 INFO  LogInPage :86 - Entering FirstName is ::firstname
+2020-09-07 18:09:700 INFO  LogInPage :92 - Entering lastName is ::lasstname
+2020-09-07 18:09:776 INFO  LogInPage :98 - Entering password is ::password
+2020-09-07 18:09:848 INFO  LogInPage :105 - Selecting the month is ::7
+2020-09-07 18:09:03 INFO  LogInPage :124 - ESelecting the month is ::September
+2020-09-07 18:09:167 INFO  LogInPage :143 - Selecting the year is ::2020
+2020-09-07 18:09:239 INFO  LogInPage :164 - Entering Address First Name::::address
+2020-09-07 18:09:315 INFO  LogInPage :171 - Entering Address LastName::::latname
+2020-09-07 18:09:387 INFO  LogInPage :178 - Entering Company Name::::company
+2020-09-07 18:09:479 INFO  LogInPage :185 - Entering Address Line1::::lne1
+2020-09-07 18:09:547 INFO  LogInPage :192 - Entering Address Lin2::::line2
+2020-09-07 18:09:626 INFO  LogInPage :199 - Entering city name::::hyd
+2020-09-07 18:09:694 INFO  LogInPage :206 - Selecting state ::::Alaska
+2020-09-07 18:09:694 INFO  DropDownHelper :21 - DropDownHelper Object is created
+2020-09-07 18:09:802 INFO  DropDownHelper :41 - DropDown value is:Alaskaselected
+2020-09-07 18:09:802 INFO  LogInPage :215 - Entering postal Code::::500019
+2020-09-07 18:09:882 INFO  LogInPage :222 - Selecting country ::::United States
+2020-09-07 18:09:882 INFO  DropDownHelper :21 - DropDownHelper Object is created
+2020-09-07 18:09:970 INFO  DropDownHelper :41 - DropDown value is:United Statesselected
+2020-09-07 18:09:970 INFO  LogInPage :231 - Entering other info::::other
+2020-09-07 18:09:38 INFO  LogInPage :238 - Entering Home Phone Number::::931231341
+2020-09-07 18:09:117 INFO  LogInPage :245 - Entering Home Phone Number::::4674564654654
+2020-09-07 18:09:197 INFO  LogInPage :251 - Entering alias name::::Alias
+2020-09-07 18:09:269 INFO  LogInPage :258 - Clicking Registration button
+2020-09-07 18:09:895 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 18:09:94 INFO  Testbase :139 - Initilizing WebDriver1543043602
+2020-09-07 18:09:99 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 18:09:99 INFO  WaitHelper :38 - Implicit wait is set to :120
+2020-09-07 18:09:104 INFO  WaitHelper :129 -  waiting for page to load for   SECONDS:Seconds
+2020-09-07 18:09:108 INFO  WaitHelper :132 - Page is Loaded
+2020-09-07 18:09:272 INFO  Testbase :194 - Navigating to >>>>>>http://automationpractice.com/index.php
+2020-09-07 18:09:322 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 18:09:394 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (cbc952250525d03084b70d11f19972e9)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a]  for  120Seconds
+2020-09-07 18:09:478 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-07 18:09:478 INFO  Testbase :176 - Capturing screen....
+2020-09-07 18:09:377 INFO  NavigationMenu :57 - Clicking on   WOMEN
+2020-09-07 18:09:383 INFO  WaitHelper :138 - Waiting for Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='center_column']/div/div[1]/ul/li[1]/a/i'  for  120Seconds
+2020-09-07 18:09:609 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 18:09:625 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (cbc952250525d03084b70d11f19972e9)] -> xpath: //*[@id='layered_block_left']/p]  for  120Seconds
+2020-09-07 18:09:657 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-07 18:09:657 INFO  MyAccountPage :48 - Product Catogery is Intilisied
+2020-09-07 18:09:657 INFO  Testbase :176 - Capturing screen....
+2020-09-07 18:09:115 INFO  MyAccountPage :158 - Selecting Filter
+2020-09-07 18:09:115 INFO  DropDownHelper :21 - DropDownHelper Object is created
+2020-09-07 18:09:148 INFO  Testbase :139 - Initilizing WebDriver1543043602
+2020-09-07 18:09:153 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 18:09:154 INFO  WaitHelper :38 - Implicit wait is set to :120
+2020-09-07 18:09:159 INFO  WaitHelper :129 -  waiting for page to load for   SECONDS:Seconds
+2020-09-07 18:09:163 INFO  WaitHelper :132 - Page is Loaded
+2020-09-07 18:09:969 INFO  Testbase :194 - Navigating to >>>>>>http://automationpractice.com/index.php
+2020-09-07 18:09:989 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 18:09:13 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (7f033bcb837aa28664b83aeccec3dd26)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a]  for  120Seconds
+2020-09-07 18:09:81 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-07 18:09:81 INFO  Testbase :176 - Capturing screen....
+2020-09-07 18:09:901 INFO  NavigationMenu :57 - Clicking on   WOMEN
+2020-09-07 18:09:547 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 18:09:561 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (7f033bcb837aa28664b83aeccec3dd26)] -> xpath: //*[@id='layered_block_left']/p]  for  120Seconds
+2020-09-07 18:09:589 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-07 18:09:589 INFO  MyAccountPage :48 - Product Catogery is Intilisied
+2020-09-07 18:09:593 INFO  Testbase :176 - Capturing screen....
+2020-09-07 18:09:45 INFO  MyAccountPage :158 - Selecting Filter
+2020-09-07 18:09:45 INFO  DropDownHelper :21 - DropDownHelper Object is created
+2020-09-07 18:09:704 INFO  Testbase :139 - Initilizing WebDriver1543043602
+2020-09-07 18:09:708 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 18:09:709 INFO  WaitHelper :38 - Implicit wait is set to :120
+2020-09-07 18:09:714 INFO  WaitHelper :129 -  waiting for page to load for   SECONDS:Seconds
+2020-09-07 18:09:718 INFO  WaitHelper :132 - Page is Loaded
+2020-09-07 18:09:931 INFO  Testbase :194 - Navigating to >>>>>>http://automationpractice.com/index.php
+2020-09-07 18:09:950 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 18:09:974 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (3ae2230e049b607e945830e2d6fd3e1c)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a]  for  120Seconds
+2020-09-07 18:09:38 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-07 18:09:38 INFO  Testbase :176 - Capturing screen....
+2020-09-07 18:09:817 INFO  NavigationMenu :57 - Clicking on   WOMEN
+2020-09-07 18:09:482 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 18:09:495 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (3ae2230e049b607e945830e2d6fd3e1c)] -> xpath: //*[@id='layered_block_left']/p]  for  120Seconds
+2020-09-07 18:09:523 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-07 18:09:523 INFO  ProductCatogeryPage :48 - Product Catogery is Intilisied
+2020-09-07 18:09:523 INFO  Testbase :176 - Capturing screen....
+2020-09-07 18:09:999 INFO  ProductCatogeryPage :158 - Selecting Filter
+2020-09-07 18:09:999 INFO  DropDownHelper :21 - DropDownHelper Object is created
+2020-09-07 18:09:84 INFO  Testbase :139 - Initilizing WebDriver1543043602
+2020-09-07 18:09:90 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 18:09:90 INFO  WaitHelper :38 - Implicit wait is set to :120
+2020-09-07 18:09:95 INFO  WaitHelper :129 -  waiting for page to load for   SECONDS:Seconds
+2020-09-07 18:09:103 INFO  WaitHelper :132 - Page is Loaded
+2020-09-07 18:09:770 INFO  Testbase :194 - Navigating to >>>>>>http://automationpractice.com/index.php
+2020-09-07 18:09:790 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 18:09:742 INFO  WaitHelper :138 - Waiting for Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='block_top_menu']/ul/li[1]/a'  for  120Seconds
+2020-09-07 18:09:74 INFO  Testbase :139 - Initilizing WebDriver1543043602
+2020-09-07 18:09:78 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 18:09:79 INFO  WaitHelper :38 - Implicit wait is set to :120
+2020-09-07 18:09:84 INFO  WaitHelper :129 -  waiting for page to load for   SECONDS:Seconds
+2020-09-07 18:09:88 INFO  WaitHelper :132 - Page is Loaded
+2020-09-07 18:09:129 INFO  Testbase :194 - Navigating to >>>>>>http://automationpractice.com/index.php
+2020-09-07 18:09:150 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 18:09:170 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (611dedeca1afc2af1b7fadfb1b6e1880)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a]  for  120Seconds
+2020-09-07 18:09:234 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-07 18:09:234 INFO  Testbase :176 - Capturing screen....
+2020-09-07 18:09:985 INFO  NavigationMenu :57 - Clicking on   WOMEN
+2020-09-07 18:09:14 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 18:09:36 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (611dedeca1afc2af1b7fadfb1b6e1880)] -> xpath: //*[@id='layered_block_left']/p]  for  120Seconds
+2020-09-07 18:09:68 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-07 18:09:72 INFO  ProductCatogeryPage :48 - Product Catogery is Intilisied
+2020-09-07 18:09:72 INFO  Testbase :176 - Capturing screen....
+2020-09-07 18:09:521 INFO  ProductCatogeryPage :158 - Selecting Filter
+2020-09-07 18:09:529 INFO  DropDownHelper :21 - DropDownHelper Object is created
+2020-09-07 18:09:677 INFO  DropDownHelper :41 - DropDown value is:Price: Lowest firstselected
+2020-09-07 18:09:677 INFO  ProductCatogeryPage :151 - Showing Total Price 
+2020-09-07 18:09:703 INFO  VerifyLowestPriceFilterTest :45 - Actual data is::16.51
+2020-09-07 18:09:719 INFO  VerifyLowestPriceFilterTest :45 - Actual data is::27.00
+2020-09-07 18:09:727 INFO  VerifyLowestPriceFilterTest :45 - Actual data is::26.00
+2020-09-07 18:09:743 INFO  VerifyLowestPriceFilterTest :45 - Actual data is::50.99
+2020-09-07 18:09:755 INFO  VerifyLowestPriceFilterTest :45 - Actual data is::28.98
+2020-09-07 18:09:775 INFO  VerifyLowestPriceFilterTest :45 - Actual data is::30.50
+2020-09-07 18:09:787 INFO  VerifyLowestPriceFilterTest :45 - Actual data is::16.40
+2020-09-07 18:09:799 INFO  VerifyLowestPriceFilterTest :52 - prices are===[16, 27, 26, 50, 28, 30, 16]
+2020-09-07 18:09:799 INFO  VerifyLowestPriceFilterTest :58 - array.get(i)=16
+2020-09-07 18:09:799 INFO  VerifyLowestPriceFilterTest :59 - array.get(i+1)=27
+2020-09-07 18:09:637 INFO  Testbase :139 - Initilizing WebDriver1543043602
+2020-09-07 18:09:641 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 18:09:641 INFO  WaitHelper :38 - Implicit wait is set to :120
+2020-09-07 18:09:645 INFO  WaitHelper :129 -  waiting for page to load for   SECONDS:Seconds
+2020-09-07 18:09:653 INFO  WaitHelper :132 - Page is Loaded
+2020-09-07 18:09:779 INFO  Testbase :194 - Navigating to >>>>>>http://automationpractice.com/index.php
+2020-09-07 18:09:800 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 18:09:824 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (4f515a4a2c786f7ca0e3461e1ccb5de6)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a]  for  120Seconds
+2020-09-07 18:09:888 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-07 18:09:892 INFO  Testbase :176 - Capturing screen....
+2020-09-07 18:09:680 INFO  NavigationMenu :57 - Clicking on   WOMEN
+2020-09-07 18:09:167 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 18:09:181 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (4f515a4a2c786f7ca0e3461e1ccb5de6)] -> xpath: //*[@id='layered_block_left']/p]  for  120Seconds
+2020-09-07 18:09:213 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-07 18:09:213 INFO  ProductCatogeryPage :48 - Product Catogery is Intilisied
+2020-09-07 18:09:213 INFO  Testbase :176 - Capturing screen....
+2020-09-07 18:09:675 INFO  ProductCatogeryPage :158 - Selecting Filter
+2020-09-07 18:09:683 INFO  DropDownHelper :21 - DropDownHelper Object is created
+2020-09-07 18:09:809 INFO  DropDownHelper :41 - DropDown value is:Price: Lowest firstselected
+2020-09-07 18:09:810 INFO  ProductCatogeryPage :151 - Showing Total Price 
+2020-09-07 18:09:843 INFO  VerifyLowestPriceFilterTest :45 - Actual data is::16.51
+2020-09-07 18:09:859 INFO  VerifyLowestPriceFilterTest :45 - Actual data is::26.00
+2020-09-07 18:09:875 INFO  VerifyLowestPriceFilterTest :45 - Actual data is::50.99
+2020-09-07 18:09:883 INFO  VerifyLowestPriceFilterTest :45 - Actual data is::28.98
+2020-09-07 18:09:911 INFO  VerifyLowestPriceFilterTest :45 - Actual data is::30.50
+2020-09-07 18:09:923 INFO  VerifyLowestPriceFilterTest :45 - Actual data is::16.40
+2020-09-07 18:09:931 INFO  VerifyLowestPriceFilterTest :52 - prices are===[16, 26, 50, 28, 30, 16]
+2020-09-07 18:09:931 INFO  VerifyLowestPriceFilterTest :58 - array.get(i)=16
+2020-09-07 18:09:931 INFO  VerifyLowestPriceFilterTest :59 - array.get(i+1)=26
+2020-09-07 18:09:935 INFO  VerifyLowestPriceFilterTest :58 - array.get(i)=26
+2020-09-07 18:09:935 INFO  VerifyLowestPriceFilterTest :59 - array.get(i+1)=50
+2020-09-07 18:09:544 INFO  Testbase :139 - Initilizing WebDriver1543043602
+2020-09-07 18:09:550 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 18:09:550 INFO  WaitHelper :38 - Implicit wait is set to :120
+2020-09-07 18:09:554 INFO  WaitHelper :129 -  waiting for page to load for   SECONDS:Seconds
+2020-09-07 18:09:558 INFO  WaitHelper :132 - Page is Loaded
+2020-09-07 18:09:131 INFO  Testbase :194 - Navigating to >>>>>>http://automationpractice.com/index.php
+2020-09-07 18:09:157 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 18:09:173 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (5b43f2495136e0d0923e3a111f32a15b)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a]  for  120Seconds
+2020-09-07 18:09:241 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-07 18:09:241 INFO  Testbase :176 - Capturing screen....
+2020-09-07 18:09:991 INFO  NavigationMenu :57 - Clicking on   WOMEN
+2020-09-07 18:09:748 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-07 18:09:763 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (5b43f2495136e0d0923e3a111f32a15b)] -> xpath: //*[@id='layered_block_left']/p]  for  120Seconds
+2020-09-07 18:09:794 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-07 18:09:794 INFO  ProductCatogeryPage :48 - Product Catogery is Intilisied
+2020-09-07 18:09:794 INFO  Testbase :176 - Capturing screen....
+2020-09-07 18:09:247 INFO  ProductCatogeryPage :158 - Selecting Filter
+2020-09-07 18:09:247 INFO  DropDownHelper :21 - DropDownHelper Object is created
+2020-09-07 18:09:354 INFO  DropDownHelper :41 - DropDown value is:Price: Lowest firstselected
+2020-09-07 18:09:362 INFO  ProductCatogeryPage :151 - Showing Total Price 
+2020-09-07 18:09:405 INFO  VerifyLowestPriceFilterTest :45 - Actual data is::16.51
+2020-09-07 18:09:421 INFO  VerifyLowestPriceFilterTest :45 - Actual data is::27.00
+2020-09-07 18:09:433 INFO  VerifyLowestPriceFilterTest :45 - Actual data is::26.00
+2020-09-07 18:09:444 INFO  VerifyLowestPriceFilterTest :45 - Actual data is::50.99
+2020-09-07 18:09:456 INFO  VerifyLowestPriceFilterTest :45 - Actual data is::28.98
+2020-09-07 18:09:476 INFO  VerifyLowestPriceFilterTest :45 - Actual data is::30.50
+2020-09-07 18:09:488 INFO  VerifyLowestPriceFilterTest :45 - Actual data is::16.40
+2020-09-07 18:09:496 INFO  VerifyLowestPriceFilterTest :52 - prices are===[16, 27, 26, 50, 28, 30, 16]
+2020-09-07 18:09:496 INFO  VerifyLowestPriceFilterTest :58 - array.get(i)=16
+2020-09-07 18:09:496 INFO  VerifyLowestPriceFilterTest :59 - array.get(i+1)=27
+2020-09-08 10:09:997 INFO  Testbase :139 - Initilizing WebDriver1839962989
+2020-09-08 10:09:24 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-08 10:09:25 INFO  WaitHelper :38 - Implicit wait is set to :120
+2020-09-08 10:09:30 INFO  WaitHelper :129 -  waiting for page to load for   SECONDS:Seconds
+2020-09-08 10:09:39 INFO  WaitHelper :132 - Page is Loaded
+2020-09-08 10:09:90 INFO  Testbase :139 - Initilizing WebDriver1220759559
+2020-09-08 10:09:90 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-08 10:09:90 INFO  WaitHelper :38 - Implicit wait is set to :120
+2020-09-08 10:09:98 INFO  WaitHelper :129 -  waiting for page to load for   SECONDS:Seconds
+2020-09-08 10:09:102 INFO  WaitHelper :132 - Page is Loaded
+2020-09-08 10:09:203 INFO  Testbase :194 - Navigating to >>>>>>http://automationpractice.com/index.php
+2020-09-08 10:09:225 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-08 10:09:245 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (9a134a737a3ba50939b82c2eba309e07)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a]  for  120Seconds
+2020-09-08 10:09:337 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-08 10:09:337 INFO  Testbase :176 - Capturing screen....
+2020-09-08 10:09:51 INFO  NavigationMenu :57 - Clicking on   WOMEN
+2020-09-08 10:09:916 INFO  Testbase :139 - Initilizing WebDriver1523510420
+2020-09-08 10:09:916 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-08 10:09:917 INFO  WaitHelper :38 - Implicit wait is set to :120
+2020-09-08 10:09:920 INFO  WaitHelper :129 -  waiting for page to load for   SECONDS:Seconds
+2020-09-08 10:09:924 INFO  WaitHelper :132 - Page is Loaded
+2020-09-08 10:09:72 INFO  RegistrationTest :25 - Conducting Registration testcase
+2020-09-08 10:09:481 INFO  Testbase :194 - Navigating to >>>>>>http://automationpractice.com/index.php
+2020-09-08 10:09:484 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-08 10:09:505 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (609a7c9a51dea251757904be6f970abb)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]  for  120Seconds
+2020-09-08 10:09:541 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-08 10:09:541 INFO  Testbase :176 - Capturing screen....
+2020-09-08 10:09:288 INFO  LogInPage :49 - Waiting for Loging page fully loaded
+2020-09-08 10:09:288 INFO  LogInPage :55 - Clicking signin Buttton
+2020-09-08 10:09:123 INFO  LogInPage :93 - entering email id for registraion is 1599541732123@gmail.com
+2020-09-08 10:09:316 INFO  LogInPage :99 - Clicking New Registraion page
+2020-09-08 10:09:320 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-08 10:09:919 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (609a7c9a51dea251757904be6f970abb)] -> xpath: //*[@id='id_gender1']]  for  120Seconds
+2020-09-08 10:09:954 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-08 10:09:954 INFO  Testbase :176 - Capturing screen....
+2020-09-08 10:09:330 INFO  LogInPage :73 - Registration page Object is created
+2020-09-08 10:09:330 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-08 10:09:342 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (609a7c9a51dea251757904be6f970abb)] -> xpath: //*[@id='id_gender1']]  for  120Seconds
+2020-09-08 10:09:370 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-08 10:09:370 INFO  Testbase :176 - Capturing screen....
+2020-09-08 10:09:762 INFO  LogInPage :73 - Registration page Object is created
+2020-09-08 10:09:762 INFO  LogInPage :79 - Mr Radio Button is selecting
+2020-09-08 10:09:809 INFO  LogInPage :86 - Entering FirstName is ::firstname
+2020-09-08 10:09:897 INFO  LogInPage :92 - Entering lastName is ::lasstname
+2020-09-08 10:09:985 INFO  LogInPage :98 - Entering password is ::password
+2020-09-08 10:09:54 INFO  LogInPage :105 - Selecting the month is ::7
+2020-09-08 10:09:232 INFO  LogInPage :124 - ESelecting the month is ::September
+2020-09-08 10:09:380 INFO  LogInPage :143 - Selecting the year is ::2020
+2020-09-08 10:09:448 INFO  LogInPage :164 - Entering Address First Name::::address
+2020-09-08 10:09:524 INFO  LogInPage :171 - Entering Address LastName::::latname
+2020-09-08 10:09:592 INFO  LogInPage :178 - Entering Company Name::::company
+2020-09-08 10:09:664 INFO  LogInPage :185 - Entering Address Line1::::lne1
+2020-09-08 10:09:740 INFO  LogInPage :192 - Entering Address Lin2::::line2
+2020-09-08 10:09:807 INFO  LogInPage :199 - Entering city name::::hyd
+2020-09-08 10:09:867 INFO  LogInPage :206 - Selecting state ::::Alaska
+2020-09-08 10:09:867 INFO  DropDownHelper :21 - DropDownHelper Object is created
+2020-09-08 10:09:975 INFO  DropDownHelper :41 - DropDown value is:Alaskaselected
+2020-09-08 10:09:975 INFO  LogInPage :215 - Entering postal Code::::500019
+2020-09-08 10:09:43 INFO  LogInPage :222 - Selecting country ::::United States
+2020-09-08 10:09:43 INFO  DropDownHelper :21 - DropDownHelper Object is created
+2020-09-08 10:09:116 INFO  DropDownHelper :41 - DropDown value is:United Statesselected
+2020-09-08 10:09:116 INFO  LogInPage :231 - Entering other info::::other
+2020-09-08 10:09:180 INFO  LogInPage :238 - Entering Home Phone Number::::931231341
+2020-09-08 10:09:256 INFO  LogInPage :245 - Entering Home Phone Number::::4674564654654
+2020-09-08 10:09:332 INFO  LogInPage :251 - Entering alias name::::Alias
+2020-09-08 10:09:400 INFO  LogInPage :258 - Clicking Registration button
+2020-09-08 10:09:890 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-08 10:09:918 INFO  WaitHelper :138 - Waiting for Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='center_column']/div/div[1]/ul/li[1]/a/i'  for  120Seconds
+2020-09-08 11:09:979 INFO  Testbase :140 - Initilizing WebDriver1839962989
+2020-09-08 11:09:984 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-08 11:09:985 INFO  WaitHelper :38 - Implicit wait is set to :120
+2020-09-08 11:09:993 INFO  WaitHelper :129 -  waiting for page to load for   SECONDS:Seconds
+2020-09-08 11:09:997 INFO  WaitHelper :132 - Page is Loaded
+2020-09-08 11:09:672 INFO  Testbase :198 - Navigating to >>>>>>http://automationpractice.com/index.php
+2020-09-08 11:09:703 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-08 11:09:746 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (7a209a8fc52f78015660df112bb441a1)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]  for  120Seconds
+2020-09-08 11:09:822 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-08 11:09:822 INFO  Testbase :177 - Capturing screen....
+2020-09-08 11:09:823 INFO  JavaScriptHelper :16 - javascript executer is initialised
+2020-09-08 11:09:459 INFO  JavaScriptHelper :16 - javascript executer is initialised
+2020-09-08 11:09:496 INFO  LogInPage :49 - Waiting for Loging page fully loaded
+2020-09-08 11:09:496 INFO  LogInPage :55 - Clicking signin Buttton
+2020-09-08 11:09:54 INFO  LogInPage :63 - Entering Email address....balasrikanth48@gmail.com
+2020-09-08 11:09:169 INFO  LogInPage :71 - Entering password   Sr!kanth656697
+2020-09-08 11:09:244 INFO  LogInPage :77 - Clicking sginIn submit button
+2020-09-08 11:09:244 INFO  JavaScriptHelper :16 - javascript executer is initialised
+2020-09-08 11:09:251 INFO  JavaScriptHelper :90 - Scrolling dwon verticallly
+2020-09-08 11:09:367 INFO  VerificationHelper :31 - element is presentWelcome to your account. Here you can manage all of your personal information and orders.
+2020-09-08 11:09:437 INFO  Testbase :140 - Initilizing WebDriver903268937
+2020-09-08 11:09:437 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-08 11:09:437 INFO  WaitHelper :38 - Implicit wait is set to :120
+2020-09-08 11:09:441 INFO  WaitHelper :129 -  waiting for page to load for   SECONDS:Seconds
+2020-09-08 11:09:445 INFO  WaitHelper :132 - Page is Loaded
+2020-09-08 11:09:286 INFO  Testbase :198 - Navigating to >>>>>>http://automationpractice.com/index.php
+2020-09-08 11:09:289 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-08 11:09:309 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (e4fe0244d618d921a29d32de93590fdd)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a]  for  120Seconds
+2020-09-08 11:09:343 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-08 11:09:343 INFO  Testbase :177 - Capturing screen....
+2020-09-08 11:09:343 INFO  JavaScriptHelper :16 - javascript executer is initialised
+2020-09-08 11:09:867 INFO  JavaScriptHelper :16 - javascript executer is initialised
+2020-09-08 11:09:912 INFO  NavigationMenu :57 - Clicking on   WOMEN
+2020-09-08 11:09:228 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-08 11:09:242 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (e4fe0244d618d921a29d32de93590fdd)] -> xpath: //*[@id='layered_block_left']/p]  for  120Seconds
+2020-09-08 11:09:267 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-08 11:09:267 INFO  ProductCatogeryPage :50 - Product Catogery is Intilisied
+2020-09-08 11:09:267 INFO  Testbase :177 - Capturing screen....
+2020-09-08 11:09:267 INFO  JavaScriptHelper :16 - javascript executer is initialised
+2020-09-08 11:09:730 INFO  JavaScriptHelper :16 - javascript executer is initialised
+2020-09-08 11:09:737 INFO  ProductCatogeryPage :160 - Selecting Filter
+2020-09-08 11:09:738 INFO  DropDownHelper :21 - DropDownHelper Object is created
+2020-09-08 11:09:862 INFO  DropDownHelper :41 - DropDown value is:Price: Lowest firstselected
+2020-09-08 11:09:862 INFO  ProductCatogeryPage :153 - Showing Total Price 
+2020-09-08 11:09:886 INFO  ProductCatogeryPage :192 - actual data
+2020-09-08 11:09:896 INFO  ProductCatogeryPage :192 - actual data
+2020-09-08 11:09:907 INFO  ProductCatogeryPage :192 - actual data
+2020-09-08 11:09:920 INFO  ProductCatogeryPage :192 - actual data
+2020-09-08 11:09:930 INFO  ProductCatogeryPage :192 - actual data
+2020-09-08 11:09:950 INFO  ProductCatogeryPage :192 - actual data
+2020-09-08 11:09:960 INFO  ProductCatogeryPage :192 - actual data
+2020-09-08 11:09:972 INFO  ProductCatogeryPage :172 - array.get(i)16
+2020-09-08 11:09:972 INFO  ProductCatogeryPage :173 - array.get(i+1)27
+2020-09-08 11:09:972 INFO  ProductCatogeryPage :176 - Filter is not Working
+2020-09-08 11:09:272 INFO  Testbase :140 - Initilizing WebDriver1489831627
+2020-09-08 11:09:272 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-08 11:09:272 INFO  WaitHelper :38 - Implicit wait is set to :120
+2020-09-08 11:09:275 INFO  WaitHelper :129 -  waiting for page to load for   SECONDS:Seconds
+2020-09-08 11:09:277 INFO  WaitHelper :132 - Page is Loaded
+2020-09-08 11:09:492 INFO  RegistrationTest :25 - Conducting Registration testcase
+2020-09-08 11:09:63 INFO  Testbase :198 - Navigating to >>>>>>http://automationpractice.com/index.php
+2020-09-08 11:09:63 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-08 11:09:80 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (3608d3fdf9d8f9aaa0b44ab24afe05e2)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]  for  120Seconds
+2020-09-08 11:09:111 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-08 11:09:111 INFO  Testbase :177 - Capturing screen....
+2020-09-08 11:09:111 INFO  JavaScriptHelper :16 - javascript executer is initialised
+2020-09-08 11:09:696 INFO  JavaScriptHelper :16 - javascript executer is initialised
+2020-09-08 11:09:702 INFO  LogInPage :49 - Waiting for Loging page fully loaded
+2020-09-08 11:09:703 INFO  LogInPage :55 - Clicking signin Buttton
+2020-09-08 11:09:99 INFO  LogInPage :93 - entering email id for registraion is 1599546259099@gmail.com
+2020-09-08 11:09:280 INFO  LogInPage :99 - Clicking New Registraion page
+2020-09-08 11:09:283 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-08 11:09:809 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (3608d3fdf9d8f9aaa0b44ab24afe05e2)] -> xpath: //*[@id='id_gender1']]  for  120Seconds
+2020-09-08 11:09:838 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-08 11:09:839 INFO  Testbase :177 - Capturing screen....
+2020-09-08 11:09:839 INFO  JavaScriptHelper :16 - javascript executer is initialised
+2020-09-08 11:09:218 INFO  JavaScriptHelper :16 - javascript executer is initialised
+2020-09-08 11:09:226 INFO  LogInPage :73 - Registration page Object is created
+2020-09-08 11:09:227 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-08 11:09:248 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (3608d3fdf9d8f9aaa0b44ab24afe05e2)] -> xpath: //*[@id='id_gender1']]  for  120Seconds
+2020-09-08 11:09:273 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-08 11:09:273 INFO  Testbase :177 - Capturing screen....
+2020-09-08 11:09:273 INFO  JavaScriptHelper :16 - javascript executer is initialised
+2020-09-08 11:09:620 INFO  JavaScriptHelper :16 - javascript executer is initialised
+2020-09-08 11:09:647 INFO  LogInPage :73 - Registration page Object is created
+2020-09-08 11:09:647 INFO  LogInPage :79 - Mr Radio Button is selecting
+2020-09-08 11:09:698 INFO  LogInPage :86 - Entering FirstName is ::firstname
+2020-09-08 11:09:782 INFO  LogInPage :92 - Entering lastName is ::lasstname
+2020-09-08 11:09:859 INFO  LogInPage :98 - Entering password is ::password
+2020-09-08 11:09:928 INFO  LogInPage :105 - Selecting the month is ::7
+2020-09-08 11:09:69 INFO  LogInPage :124 - ESelecting the month is ::September
+2020-09-08 11:09:210 INFO  LogInPage :143 - Selecting the year is ::2020
+2020-09-08 11:09:276 INFO  LogInPage :164 - Entering Address First Name::::address
+2020-09-08 11:09:340 INFO  LogInPage :171 - Entering Address LastName::::latname
+2020-09-08 11:09:397 INFO  LogInPage :178 - Entering Company Name::::company
+2020-09-08 11:09:465 INFO  LogInPage :185 - Entering Address Line1::::lne1
+2020-09-08 11:09:520 INFO  LogInPage :192 - Entering Address Lin2::::line2
+2020-09-08 11:09:577 INFO  LogInPage :199 - Entering city name::::hyd
+2020-09-08 11:09:633 INFO  LogInPage :206 - Selecting state ::::Alaska
+2020-09-08 11:09:634 INFO  DropDownHelper :21 - DropDownHelper Object is created
+2020-09-08 11:09:723 INFO  DropDownHelper :41 - DropDown value is:Alaskaselected
+2020-09-08 11:09:723 INFO  LogInPage :215 - Entering postal Code::::500019
+2020-09-08 11:09:786 INFO  LogInPage :222 - Selecting country ::::United States
+2020-09-08 11:09:786 INFO  DropDownHelper :21 - DropDownHelper Object is created
+2020-09-08 11:09:849 INFO  DropDownHelper :41 - DropDown value is:United Statesselected
+2020-09-08 11:09:849 INFO  LogInPage :231 - Entering other info::::other
+2020-09-08 11:09:905 INFO  LogInPage :238 - Entering Home Phone Number::::931231341
+2020-09-08 11:09:972 INFO  LogInPage :245 - Entering Home Phone Number::::4674564654654
+2020-09-08 11:09:38 INFO  LogInPage :251 - Entering alias name::::Alias
+2020-09-08 11:09:93 INFO  LogInPage :258 - Clicking Registration button
+2020-09-08 11:09:644 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-08 11:09:699 INFO  WaitHelper :138 - Waiting for Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='center_column']/div/div[1]/ul/li[1]/a/i'  for  120Seconds
+2020-09-09 10:09:91 INFO  Testbase :140 - Initilizing WebDriver1543043602
+2020-09-09 10:09:131 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-09 10:09:132 INFO  WaitHelper :38 - Implicit wait is set to :120
+2020-09-09 10:09:140 INFO  WaitHelper :129 -  waiting for page to load for   SECONDS:Seconds
+2020-09-09 10:09:144 INFO  WaitHelper :132 - Page is Loaded
+2020-09-09 10:09:456 INFO  Testbase :198 - Navigating to >>>>>>http://automationpractice.com/index.php
+2020-09-09 10:09:749 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-09 10:09:995 INFO  Testbase :140 - Initilizing WebDriver1543043602
+2020-09-09 10:09:999 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-09 10:09:999 INFO  WaitHelper :38 - Implicit wait is set to :120
+2020-09-09 10:09:08 INFO  WaitHelper :129 -  waiting for page to load for   SECONDS:Seconds
+2020-09-09 10:09:12 INFO  WaitHelper :132 - Page is Loaded
+2020-09-09 10:09:682 INFO  Testbase :198 - Navigating to >>>>>>http://automationpractice.com/index.php
+2020-09-09 10:09:708 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-09 10:09:745 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (c558dc7c4e5077a7ad833b50c7bc5e5a)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a]  for  120Seconds
+2020-09-09 10:09:949 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-09 10:09:950 INFO  Testbase :177 - Capturing screen....
+2020-09-09 10:09:986 INFO  JavaScriptHelper :16 - javascript executer is initialised
+2020-09-09 10:09:596 INFO  JavaScriptHelper :16 - javascript executer is initialised
+2020-09-09 10:09:642 INFO  NavigationMenu :57 - Clicking on   WOMEN
+2020-09-09 10:09:338 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-09 10:09:351 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (c558dc7c4e5077a7ad833b50c7bc5e5a)] -> xpath: //*[@id='layered_block_left']/p]  for  120Seconds
+2020-09-09 10:09:378 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-09 10:09:379 INFO  ProductCatogeryPage :50 - Product Catogery is Intilisied
+2020-09-09 10:09:379 INFO  Testbase :177 - Capturing screen....
+2020-09-09 10:09:379 INFO  JavaScriptHelper :16 - javascript executer is initialised
+2020-09-09 10:09:810 INFO  JavaScriptHelper :16 - javascript executer is initialised
+2020-09-09 10:09:818 INFO  ProductCatogeryPage :160 - Selecting Filter
+2020-09-09 10:09:834 INFO  DropDownHelper :21 - DropDownHelper Object is created
+2020-09-09 10:09:997 INFO  DropDownHelper :41 - DropDown value is:Price: Lowest firstselected
+2020-09-09 10:09:998 INFO  ProductCatogeryPage :153 - Showing Total Price 
+2020-09-09 10:09:22 INFO  ProductCatogeryPage :192 - actual data
+2020-09-09 10:09:32 INFO  ProductCatogeryPage :192 - actual data
+2020-09-09 10:09:43 INFO  ProductCatogeryPage :192 - actual data
+2020-09-09 10:09:55 INFO  ProductCatogeryPage :192 - actual data
+2020-09-09 10:09:66 INFO  ProductCatogeryPage :192 - actual data
+2020-09-09 10:09:87 INFO  ProductCatogeryPage :192 - actual data
+2020-09-09 10:09:98 INFO  ProductCatogeryPage :192 - actual data
+2020-09-09 10:09:109 INFO  ProductCatogeryPage :172 - array.get(i)16
+2020-09-09 10:09:110 INFO  ProductCatogeryPage :173 - array.get(i+1)27
+2020-09-09 10:09:110 INFO  ProductCatogeryPage :176 - Filter is not Working

@@ -1,0 +1,49 @@
+2020-09-09 11:09:721 INFO  Testbase :140 - Initilizing WebDriver322112198
+2020-09-09 11:09:726 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-09 11:09:727 INFO  WaitHelper :38 - Implicit wait is set to :120
+2020-09-09 11:09:735 INFO  WaitHelper :129 -  waiting for page to load for   SECONDS:Seconds
+2020-09-09 11:09:739 INFO  WaitHelper :132 - Page is Loaded
+2020-09-09 11:09:250 INFO  Testbase :198 - Navigating to >>>>>>http://automationpractice.com/index.php
+2020-09-09 11:09:284 INFO  WaitHelper :27 - WaitHelper Object is instanced
+2020-09-09 11:09:328 INFO  WaitHelper :138 - Waiting for [[ChromeDriver: chrome on WINDOWS (395efd8c230500394080c7ed466b9cc3)] -> xpath: //*[@id="header"]/div[2]/div/div/nav/div[1]/a]  for  120Seconds
+2020-09-09 11:09:416 INFO  WaitHelper :141 - elemnet is visible now
+2020-09-09 11:09:416 INFO  Testbase :177 - Capturing screen....
+2020-09-09 11:09:417 INFO  JavaScriptHelper :16 - javascript executer is initialised
+2020-09-09 11:09:27 INFO  JavaScriptHelper :16 - javascript executer is initialised
+2020-09-09 11:09:53 INFO  LogInPage :49 - Waiting for Loging page fully loaded
+2020-09-09 11:09:54 INFO  LogInPage :55 - Clicking signin Buttton
+2020-09-09 11:09:07 INFO  LogInPage :63 - Entering Email address....balasrikanth48@gmail.com
+2020-09-09 11:09:144 INFO  LogInPage :71 - Entering password   Sr!kanth656697
+2020-09-09 11:09:267 INFO  LogInPage :77 - Clicking sginIn submit button
+2020-09-09 11:09:267 INFO  JavaScriptHelper :16 - javascript executer is initialised
+2020-09-09 11:09:277 INFO  JavaScriptHelper :90 - Scrolling dwon verticallly
+2020-09-09 11:09:776 INFO  VerificationHelper :31 - element is presentWelcome to your account. Here you can manage all of your personal information and orders.
+2020-11-06 15:11:310 INFO  Testbase :131 - session not created: This version of ChromeDriver only supports Chrome version 84
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-M7OO6FQ', ip: '192.168.137.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x00A387E3+2852835]
+	Ordinal0 [0x00925BB1+1727409]
+	Ordinal0 [0x007FE4B9+517305]
+	Ordinal0 [0x00790BA0+68512]
+	Ordinal0 [0x0078D3A0+54176]
+	Ordinal0 [0x007AD9F7+186871]
+	Ordinal0 [0x007AD7FD+186365]
+	Ordinal0 [0x007AB70B+177931]
+	Ordinal0 [0x00792584+75140]
+	Ordinal0 [0x00793650+79440]
+	Ordinal0 [0x007935E9+79337]
+	Ordinal0 [0x0093AD5C+1813852]
+	GetHandleVerifier [0x00B5C616+1075574]
+	GetHandleVerifier [0x00B5C367+1074887]
+	GetHandleVerifier [0x00B67497+1120247]
+	GetHandleVerifier [0x00B5CC16+1077110]
+	Ordinal0 [0x00933206+1782278]
+	Ordinal0 [0x0093C3BB+1819579]
+	Ordinal0 [0x0093C523+1819939]
+	Ordinal0 [0x00952B45+1911621]
+	BaseThreadInitThunk [0x750B6359+25]
+	RtlGetAppContainerNamedObjectPath [0x773A7C24+228]
+	RtlGetAppContainerNamedObjectPath [0x773A7BF4+180]
+

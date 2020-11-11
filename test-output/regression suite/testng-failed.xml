@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [regression suite]">
+  <listeners>
+    <listener class-name="com.uiFramework.companyName.projectName.helper.listener.ExtentListener"/>
+  </listeners>
+  <test thread-count="5" name="B(failed)">
+    <classes>
+      <class name="com.uiFramework.B">
+        <methods>
+          <include name="DemoB"/>
+        </methods>
+      </class> <!-- com.uiFramework.B -->
+    </classes>
+  </test> <!-- B(failed) -->
+  <test thread-count="5" name="C(failed)">
+    <classes>
+      <class name="com.uiFramework.C">
+        <methods>
+          <include name="DemoC"/>
+        </methods>
+      </class> <!-- com.uiFramework.C -->
+    </classes>
+  </test> <!-- C(failed) -->
+</suite> <!-- Failed suite [regression suite] -->
